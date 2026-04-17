@@ -1,138 +1,138 @@
 ---
 name: nutrition-fueling
 version: "0.1.0"
-description: "사이클링 영양·보급 전략 — 라이딩 중 탄수화물 보급(60~90g/h), 수분·전해질, 체중 관리와 퍼포먼스 밸런스. Allen Lim, Asker Jeukendrup 근거."
+description: "Cycling nutrition & fueling strategy — on-bike carbohydrate fueling (60–90 g/h), hydration & electrolytes, weight management and performance balance. Based on Allen Lim and Asker Jeukendrup."
 ---
 
-# 사이클링 영양·보급 (Nutrition & Fueling)
+# Cycling Nutrition & Fueling
 
-## 한줄 요약
+## One-Line Summary
 
-**라이딩 중 시간당 60~90g 탄수화물 보급, 충분한 수분·전해질, 그리고 훈련 시기에 맞는 일상 식단 관리.** 체중 감량과 퍼포먼스를 동시에 추구할 때의 적자 한계 관리.
+**Fuel 60–90 g of carbohydrates per hour while riding, maintain adequate hydration and electrolytes, and manage daily diet according to training phase.** Control deficit limits when pursuing weight loss and performance simultaneously.
 
-## 근거 강도
+## Strength of Evidence
 
-- 라이딩 중 탄수화물 보급 (60~90g/h): **강함** (Jeukendrup 2014, 다수 RCT)
-- 수분 보충: **강함** (체중 2%+ 탈수 시 퍼포먼스 저하)
-- 체중 감량 중 적자 한계: **중간** (0.5~0.7% 체중/주 권장, 과도하면 FTP 감소)
-- 장 훈련(gut training): **중간** (연습으로 흡수 능력 향상 가능)
+- On-bike carbohydrate fueling (60–90 g/h): **Strong** (Jeukendrup 2014, multiple RCTs)
+- Hydration: **Strong** (performance declines at ≥2% body weight dehydration)
+- Deficit limits during weight loss: **Moderate** (0.5–0.7% body weight/week recommended; excessive deficits reduce FTP)
+- Gut training: **Moderate** (absorption capacity can improve with practice)
 
-## 이론·근거 출처
+## Theoretical Basis & Sources
 
-- **Asker Jeukendrup** — 운동 중 탄수화물 산화, 다중 운반체 이론
+- **Asker Jeukendrup** — Exogenous carbohydrate oxidation, multiple transportable carbohydrate theory
 - **Allen Lim** — *The Feed Zone Cookbook*, *Feed Zone Portables*
-- **Louise Burke** — 스포츠 영양 가이드라인 (IOC)
-- **Stellingwerff, T.** — 경기 전 탄수화물 로딩
+- **Louise Burke** — Sports nutrition guidelines (IOC)
+- **Stellingwerff, T.** — Pre-race carbohydrate loading
 
-## 라이딩 중 보급 가이드
+## On-Bike Fueling Guide
 
-### 시간별 탄수화물 필요량
+### Hourly Carbohydrate Requirements
 
-| 라이딩 시간 | 탄수화물/시간 | 형태 | 비고 |
+| Ride Duration | Carbs/Hour | Form | Notes |
 |---|---|---|---|
-| <1시간 | 필요 없음 | 물만 | 짧은 고강도도 보급 불필요 |
-| 1~2시간 | 30~60g | 젤 1~2개 또는 바 | Z4+ 인터벌이면 상한 |
-| 2~3시간 | 60~80g | 젤+바+음료 혼합 | 장 훈련 필요할 수 있음 |
-| 3시간+ | 80~120g | 모든 형태 혼합 | 프로는 120g/h까지, 위장 적응 필수 |
+| <1 hour | Not needed | Water only | Short high-intensity efforts need no fueling |
+| 1–2 hours | 30–60 g | 1–2 gels or a bar | Use upper range for Z4+ intervals |
+| 2–3 hours | 60–80 g | Mix of gels + bars + drink | May require gut training |
+| 3+ hours | 80–120 g | All forms combined | Pros go up to 120 g/h; GI adaptation essential |
 
-### 탄수화물 급원 비교
+### Carbohydrate Source Comparison
 
-| 급원 | 탄수화물 | 장점 | 단점 |
+| Source | Carbs | Pros | Cons |
 |---|---|---|---|
-| 에너지 젤 (GU, SiS 등) | 20~25g/개 | 빠른 흡수, 휴대 편리 | 단조로운 맛, 위장 부담 |
-| 에너지 바 | 30~45g/개 | 포만감, 다양한 맛 | 씹어야 함, 고강도 시 어려움 |
-| 바나나 | 25~30g/개 | 자연식, 저렴 | 부피, 온도 변화에 약함 |
-| 스포츠 음료 (게이토레이 등) | 30~60g/500ml | 수분+탄수화물 동시 | 농도 조절 어려움 |
-| 밥 주먹밥 | 35~40g/개 | Allen Lim 스타일, 포만감 | 준비 필요, 위생 |
-| 양갱 | 30~35g/개 | 한국에서 구하기 쉬움 | 당류 비중 높음 |
-| 감자/고구마 | 20~30g/개 | 자연식, 소화 좋음 | 준비 필요 |
+| Energy gels (GU, SiS, etc.) | 20–25 g/unit | Fast absorption, portable | Monotonous taste, GI stress |
+| Energy bars | 30–45 g/unit | Satiety, flavor variety | Requires chewing, difficult at high intensity |
+| Banana | 25–30 g/unit | Whole food, inexpensive | Bulky, temperature-sensitive |
+| Sports drinks (Gatorade, etc.) | 30–60 g/500 ml | Hydration + carbs in one | Hard to control concentration |
+| Rice balls | 35–40 g/unit | Allen Lim style, satiating | Preparation required, hygiene concerns |
+| Yokan (양갱, sweet bean jelly) | 30–35 g/unit | Readily available in Korea | High simple-sugar content |
+| Potato / sweet potato | 20–30 g/unit | Whole food, easy to digest | Preparation required |
 
-### 다중 운반체 이론 (Jeukendrup)
-- 포도당(glucose) 단독: 최대 ~60g/h 흡수
-- **포도당 + 과당(fructose) 2:1 비율**: 최대 ~90~120g/h 흡수 가능
-- 대부분의 상업 제품이 이 비율 채택 (말토덱스트린:과당)
-- 60g/h 이상 섭취 시 **장 훈련(gut training)** 필수
+### Multiple Transportable Carbohydrate Theory (Jeukendrup)
+- Glucose alone: maximum absorption ~60 g/h
+- **Glucose + fructose at a 2:1 ratio**: up to ~90–120 g/h absorption possible
+- Most commercial products adopt this ratio (maltodextrin:fructose)
+- Intakes above 60 g/h require **gut training**
 
-### 장 훈련 (Gut Training)
-- 2~3주에 걸쳐 라이딩 중 탄수화물 섭취량을 점진적으로 증가
-- 30g/h → 45g/h → 60g/h → 75g/h (매주 15g씩)
-- 위장 불편 시 농도를 낮추거나 고체→젤→음료로 형태 변경
-- 레이스에서 처음 시도하는 보급 전략 = 재앙
+### Gut Training
+- Progressively increase on-bike carbohydrate intake over 2–3 weeks
+- 30 g/h → 45 g/h → 60 g/h → 75 g/h (increase ~15 g/week)
+- If GI discomfort occurs, reduce concentration or switch form: solid → gel → liquid
+- Trying a new fueling strategy for the first time on race day = disaster
 
-## 수분·전해질
+## Hydration & Electrolytes
 
-### 수분 필요량
-- 기본: **500~750ml/시간** (기온·습도에 따라 조절)
-- 여름 30℃+: 750~1000ml/시간
-- 겨울: 400~600ml/시간 (갈증 적어도 마셔야 함)
-- **체중 2% 이상 탈수 시 퍼포먼스 저하** 시작
+### Fluid Requirements
+- Baseline: **500–750 ml/hour** (adjust for temperature and humidity)
+- Summer 30 °C+: 750–1000 ml/hour
+- Winter: 400–600 ml/hour (drink even without thirst)
+- **Performance begins to decline at ≥2% body weight dehydration**
 
-### 발한율 측정
-1. 라이딩 전 체중 (알몸)
-2. 1시간 라이딩 (섭취한 물 기록)
-3. 라이딩 후 체중
-4. **발한율 = 체중감소 + 섭취한 물** (예: 0.5kg 감소 + 0.5L 섭취 = 1L/h)
+### Measuring Sweat Rate
+1. Pre-ride body weight (unclothed)
+2. Ride for 1 hour (record fluid consumed)
+3. Post-ride body weight
+4. **Sweat rate = weight lost + fluid consumed** (e.g., 0.5 kg lost + 0.5 L consumed = 1 L/h)
 
-### 전해질 (나트륨 중심)
-- 땀 1L당 나트륨 500~1500mg (개인차 큼)
-- 2시간+ 라이딩: **전해질 보충 필수**
-- 전해질 정제 (SiS, Nuun) 또는 소금 + 스포츠 음료
-- 한국 여름 고온다습: 나트륨 손실 매우 높음 → 적극적 보충
+### Electrolytes (Sodium-Focused)
+- Sodium loss per liter of sweat: 500–1500 mg (high individual variability)
+- Rides of 2+ hours: **electrolyte supplementation is essential**
+- Electrolyte tablets (SiS, Nuun) or salt + sports drink
+- Korean summer heat and humidity: sodium losses are very high → supplement aggressively
 
-## 일상 식단과 훈련
+## Daily Diet & Training
 
-### 훈련일 vs 휴식일
-- **고강도/장거리 훈련일**: 탄수화물 비중 높임 (체중 kg당 6~10g)
-- **Z2 저강도 훈련일**: 보통 식단 (4~6g/kg)
-- **완전 휴식일**: 탄수화물 약간 줄임 (3~5g/kg)
-- **단백질**: 항상 1.4~1.8g/kg (근육 유지·회복)
+### Training Days vs. Rest Days
+- **High-intensity / long-distance training days**: increase carbohydrate share (6–10 g/kg body weight)
+- **Z2 low-intensity training days**: moderate diet (4–6 g/kg)
+- **Full rest days**: slightly reduce carbohydrates (3–5 g/kg)
+- **Protein**: always 1.4–1.8 g/kg (muscle maintenance and recovery)
 
-### 체중 감량 + 훈련 병행
+### Combining Weight Loss with Training
 
-| 원칙 | 내용 |
+| Principle | Details |
 |---|---|
-| 적자 상한 | 일일 300~500kcal 적자 (체중의 0.5~0.7%/주) |
-| 단백질 우선 | 적자 중에도 1.6~2.0g/kg 유지 |
-| 훈련 중 보급 줄이지 말 것 | 라이딩 중에는 정상 보급. 적자는 훈련 외 시간에 |
-| 고강도 전날·당일은 적자 완화 | Z5 인터벌 전날 정상 식사 |
-| FTP 모니터링 | 2주 이상 FTP 하락 → 적자 줄이기 |
-| 시즌 중 급격한 감량 금지 | Build/Peak 기간에는 체중 유지. 감량은 Base 기간에 |
+| Deficit ceiling | 300–500 kcal/day deficit (0.5–0.7% body weight/week) |
+| Protein first | Maintain 1.6–2.0 g/kg even while in deficit |
+| Don't cut fueling during rides | Fuel normally on the bike; create the deficit off the bike |
+| Ease the deficit before/on hard days | Eat normally the day before and day of Z5 intervals |
+| Monitor FTP | FTP declining for 2+ weeks → reduce the deficit |
+| No aggressive cuts during race season | Maintain weight in Build/Peak phases; cut during Base phase |
 
-### 레이스 전날 탄수화물 로딩
-- 레이스 전 24~36시간: 체중 kg당 8~12g 탄수화물
-- 익숙한 음식으로 (새로운 음식 시도 금지)
-- 섬유질 줄이기 (위장 부담 최소화)
+### Pre-Race Carbohydrate Loading
+- 24–36 hours before race: 8–12 g carbohydrate per kg body weight
+- Stick to familiar foods (no experimenting with new foods)
+- Reduce fiber (minimize GI stress)
 
-## 한국 사이클리스트 현실
+## Practical Considerations for Korean Cyclists
 
-- **편의점 보급**: GS25, CU에서 바나나, 양갱, 초코바, 이온음료 구매 → 장거리 라이딩의 기본 보급소
-- **카페 라이딩**: 카페 도착 후 고칼로리 음료·디저트 → 보상 심리로 적자 무효화 주의
-- **삼겹살·치킨 회식**: 훈련 후 단백질·탄수 보충은 좋지만, 과음+고칼로리 → 48시간 영향
-- **배달 앱 오차**: 배민/쿠팡이츠 칼로리 표기 ±20~30% 오차
-- **여름 수분 손실**: 한국 여름 습도 80%+ → 체감보다 발한율 높음. 의식적 보충 필요
-- **젤/바 가격**: 해외 대비 비쌈. 자작 에너지바, 양갱, 주먹밥이 가성비 좋음
+- **Convenience store fueling**: Bananas, yokan (양갱), chocolate bars, and electrolyte drinks from GS25 or CU → the default resupply point on long rides
+- **Café rides**: High-calorie drinks and desserts at the café stop → beware of reward eating that negates the caloric deficit
+- **Post-ride BBQ/fried chicken**: Good for protein and carb recovery, but excess alcohol + high calories → affects performance for up to 48 hours
+- **Delivery app calorie inaccuracy**: Calorie counts on Baemin/Coupang Eats carry ±20–30% error
+- **Summer fluid losses**: Korean summer humidity 80%+ → actual sweat rate is higher than perceived; conscious hydration needed
+- **Gel/bar prices**: Significantly more expensive than overseas; homemade energy bars, yokan (양갱), and rice balls offer better value
 
-## 안티패턴
+## Anti-Patterns
 
-- **"공복 라이딩이 지방 연소에 좋다"** — 1시간 Z2까지는 괜찮으나, 장거리 공복 = 근손실 + 면역 저하
-- **레이스에서 새로운 젤 시도** — 위장 트러블 확정. 반드시 훈련 중 테스트
-- **물만 마시기 (전해질 없이)** — 3시간+ 라이딩에서 저나트륨혈증 위험
-- **라이딩 후 "먹으면 살쪄" 걱정으로 안 먹기** — 회복 골든타임(30분 내) 단백질+탄수 필수
-- **에너지 음료(레드불 등)로 대체** — 카페인 과다 + 탄산 + 높은 삼투압
+- **"Fasted rides burn more fat"** — Acceptable up to 1 hour of Z2, but long fasted rides = muscle loss + immune suppression
+- **Trying a new gel on race day** — GI trouble is virtually guaranteed; always test during training
+- **Drinking water only (no electrolytes)** — Risk of hyponatremia on 3+ hour rides
+- **Skipping post-ride food for fear of weight gain** — Protein + carbs within the 30-minute recovery window are essential
+- **Substituting energy drinks (Red Bull, etc.)** — Excess caffeine + carbonation + high osmolality
 
-## 한계
+## Limitations
 
-1. 개인별 위장 내성 차이 큼 — 일반 가이드라인에서 ±30% 조절 필요
-2. 체중 감량 속도는 개인 대사·스트레스·수면에 따라 크게 다름
-3. 전문 스포츠 영양사 상담이 가장 정확
+1. Individual GI tolerance varies widely — adjust ±30% from general guidelines
+2. Rate of weight loss depends heavily on individual metabolism, stress, and sleep
+3. Consulting a certified sports dietitian provides the most accurate guidance
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `power-zones` — TSS 기반 일일 칼로리 소비 추정
-- `endurance-events` — 이벤트별 보급 계획
-- `macro-tracking` (`/fit`) — 일상 식단 칼로리·매크로 관리
+- `power-zones` — TSS-based daily calorie expenditure estimation
+- `endurance-events` — Event-specific fueling plans
+- `macro-tracking` (`/fit`) — Daily diet calorie and macronutrient management
 
-## 참고 문헌
+## References
 
 - Jeukendrup, A. (2014). "A step towards personalized sports nutrition." *Sports Med*
 - Burke, L. et al. (2011). "Carbohydrates for training and competition." *JSAMS*

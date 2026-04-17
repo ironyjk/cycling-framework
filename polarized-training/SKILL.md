@@ -1,173 +1,173 @@
 ---
 name: polarized-training
 version: "0.1.0"
-description: "사이클링 특화 분극화 훈련 — Seiler 80/20 원칙의 사이클링 적용. 주간 훈련 플랜, 실내 트레이너 워크아웃, Friel 주기화와의 통합."
+description: "Cycling-specific polarized training — applying Seiler's 80/20 principle to cycling. Weekly training plans, indoor trainer workouts, and integration with Friel periodization."
 ---
 
-# 분극화 훈련 — 사이클링 특화 (Polarized Training)
+# Polarized Training — Cycling-Specific
 
-## 한줄 요약
+## One-Line Summary
 
-**훈련 시간의 80%를 Z1~Z2(쉬운 강도)에, 20%를 Z4~Z5(높은 강도)에 배분한다. Z3(중간 강도)를 최소화한다.** `/fit`의 `polarized-endurance`보다 사이클링 실전에 특화된 구체적 플랜 제공.
+**Allocate 80% of training time to Z1–Z2 (easy intensity) and 20% to Z4–Z5 (high intensity). Minimize Z3 (moderate intensity).** Provides cycling-specific, actionable plans beyond the general `polarized-endurance` framework in `/fit`.
 
-## 근거 강도
+## Evidence Strength
 
-- 엘리트 선수 강도 분포 관찰: **강함** (Seiler, Tønnessen, 다수 관찰 연구)
-- 분극화 vs 역치 중심 RCT: **중간** (Stöggl & Sperlich 2014 — 분극화 우세, 그러나 소규모)
-- 정확히 80/20이어야 하는가: **약함** (75~90/10~25 범위 내에서 유사)
-- 아마추어 적용: **중간** (시간 제약에서 효과 감소 가능)
+- Elite athlete intensity distribution observations: **Strong** (Seiler, Tønnessen, multiple observational studies)
+- Polarized vs. threshold-focused RCTs: **Moderate** (Stöggl & Sperlich 2014 — polarized superior, but small sample)
+- Must it be exactly 80/20: **Weak** (similar outcomes within the 75–90/10–25 range)
+- Application to amateurs: **Moderate** (effectiveness may diminish under time constraints)
 
-## /fit의 polarized-endurance와 차이
+## Differences from /fit polarized-endurance
 
-| 항목 | /fit polarized-endurance | /ride polarized-training |
+| Aspect | /fit polarized-endurance | /ride polarized-training |
 |---|---|---|
-| 범위 | 달리기·사이클링·크로스컨트리 범용 | **사이클링 전용** |
-| 파워존 | HR 중심, 5존 | **파워미터 기반 7존** |
-| 주간 플랜 | 개요 수준 | **시간대별 구체적 워크아웃** |
-| 실내 훈련 | 언급 수준 | **즈위프트/TR 워크아웃 상세** |
-| 주기화 연결 | 없음 | **Friel ATP와 통합** |
+| Scope | General-purpose: running, cycling, cross-country | **Cycling-specific** |
+| Power zones | HR-based, 5 zones | **Power meter-based, 7 zones** |
+| Weekly plan | Overview level | **Detailed workouts by time slot** |
+| Indoor training | Mentioned briefly | **Zwift/TR workout details** |
+| Periodization link | None | **Integrated with Friel ATP** |
 
-## 3존 분류 (사이클링 파워 기준)
+## Three-Zone Classification (Cycling Power-Based)
 
-| 분극화 존 | Coggan 존 | %FTP | 배분 |
+| Polarized Zone | Coggan Zone | %FTP | Distribution |
 |---|---|---|---|
 | **Low** | Z1+Z2 | <75% | **80%** |
-| **Moderate** | Z3+Z4 하단 | 76~95% | **<10%** |
-| **High** | Z4 상단+Z5+Z6 | >95% | **~20%** |
+| **Moderate** | Z3+lower Z4 | 76–95% | **<10%** |
+| **High** | Upper Z4+Z5+Z6 | >95% | **~20%** |
 
-> "Moderate"는 그레이존. 피로 대비 적응 효율이 가장 나쁨.
+> "Moderate" is the gray zone. It has the worst adaptation-to-fatigue ratio.
 
-## Z2를 제대로 타는 법
+## How to Ride Z2 Properly
 
-많은 사이클리스트가 Z2를 "너무 빠르게" 탄다. 이것이 분극화 훈련 실패의 #1 원인.
+Many cyclists ride Z2 "too fast." This is the #1 cause of polarized training failure.
 
-### Z2 체크리스트
-- **코로 숨쉬기 가능** (완전히는 아니더라도 대부분)
-- **완전한 문장으로 대화 가능**
-- **1시간 후에도 같은 강도 유지 가능**
-- **파워**: FTP의 55~75% (예: FTP 250W → 138~188W)
-- **심박**: 최대 심박의 60~72%
-- **RPE**: 2~3/10
+### Z2 Checklist
+- **Can breathe through the nose** (mostly, if not entirely)
+- **Can speak in complete sentences**
+- **Can maintain the same intensity after 1 hour**
+- **Power**: 55–75% of FTP (e.g., FTP 250W → 138–188W)
+- **Heart rate**: 60–72% of max HR
+- **RPE**: 2–3/10
 
-### 왜 이렇게 느리게?
-- Z2에서 미토콘드리아 밀도 증가, 모세혈관 생성, 지방 산화 능력 향상
-- 피로 축적 최소 → 다음 날 고강도 세션 가능
-- **Z3로 달리면**: 피로는 Z4 수준, 적응은 Z2 수준 → 최악의 비율
+### Why So Slow?
+- Z2 increases mitochondrial density, capillary growth, and fat oxidation capacity
+- Minimal fatigue accumulation → enables high-intensity sessions the next day
+- **Riding at Z3**: fatigue comparable to Z4, adaptation comparable to Z2 → the worst ratio
 
-## 주간 플랜 (시간별)
+## Weekly Plans (By Volume)
 
-### 주 4~5시간 (최소 유효 용량)
+### 4–5 Hours/Week (Minimum Effective Dose)
 ```
-월: 휴식
-화: Z5 인터벌 50min (5×4min @106~120%FTP / 3min Z1)
-수: 휴식 또는 Z1 30min
-목: Z2 60min
-금: 휴식
-토: Long Z2 2~2.5h
-일: Z2 60min
+Mon: Rest
+Tue: Z5 intervals 50min (5×4min @106–120%FTP / 3min Z1)
+Wed: Rest or Z1 30min
+Thu: Z2 60min
+Fri: Rest
+Sat: Long Z2 2–2.5h
+Sun: Z2 60min
 ```
-→ Low ~80%, High ~20% | 주 TSS ~250~300
+→ Low ~80%, High ~20% | Weekly TSS ~250–300
 
-### 주 6~8시간 (아마추어 표준)
+### 6–8 Hours/Week (Amateur Standard)
 ```
-월: 휴식
-화: Z2 90min
-수: Z5 인터벌 70min (4×4min @Z5 + 2×8min @Z4)
-목: Z2 60min (회복)
-금: Z5 인터벌 60min (Rønnestad 30/15 × 3 세트)
-토: Long Z2 3~4h
-일: Z2 60~90min
+Mon: Rest
+Tue: Z2 90min
+Wed: Z5 intervals 70min (4×4min @Z5 + 2×8min @Z4)
+Thu: Z2 60min (recovery)
+Fri: Z5 intervals 60min (Rønnestad 30/15 × 3 sets)
+Sat: Long Z2 3–4h
+Sun: Z2 60–90min
 ```
-→ Low ~80%, High ~18% | 주 TSS ~400~550
+→ Low ~80%, High ~18% | Weekly TSS ~400–550
 
-### 주 10시간+ (열정적 아마추어)
+### 10+ Hours/Week (Dedicated Amateur)
 ```
-월: 휴식
-화: Z2 90min
-수: Z5 인터벌 75min (5×4min Norwegian)
-목: Z2 90min
-금: Z4/Z5 혼합 70min (3×12min @Z4 + 3×3min @Z5)
-토: Long Z2 4~5h
-일: Z2 90min + 선택적 Z3 블록 20min
+Mon: Rest
+Tue: Z2 90min
+Wed: Z5 intervals 75min (5×4min Norwegian)
+Thu: Z2 90min
+Fri: Z4/Z5 mixed 70min (3×12min @Z4 + 3×3min @Z5)
+Sat: Long Z2 4–5h
+Sun: Z2 90min + optional Z3 block 20min
 ```
-→ Low ~82%, High ~15% | 주 TSS ~600~750
+→ Low ~82%, High ~15% | Weekly TSS ~600–750
 
-## 핵심 고강도 워크아웃
+## Key High-Intensity Workouts
 
-### 1. Norwegian 4×4 (VO2max 골드 스탠다드)
-- 4분 @Z5 (106~120% FTP) / 3분 Z1 회복 × 4세트
-- 총 28분 작업
-- 목표: VO2max 자극. 4분째에 HR이 최대 근처
-- 주 1~2회
+### 1. Norwegian 4×4 (VO2max Gold Standard)
+- 4min @Z5 (106–120% FTP) / 3min Z1 recovery × 4 sets
+- Total 28min of work
+- Goal: VO2max stimulus. HR approaches max by the 4th minute
+- 1–2 times per week
 
-### 2. Rønnestad 30/15 (숏 인터벌)
-- 30초 @150~170% FTP / 15초 Z1 × 13회 = 1세트 (9.75min)
-- 3분 회복 후 반복 × 3세트
-- 총 ~35분 작업
-- 무산소+유산소 동시 자극. 주의: 매우 힘듦
+### 2. Rønnestad 30/15 (Short Intervals)
+- 30sec @150–170% FTP / 15sec Z1 × 13 reps = 1 set (9.75min)
+- 3min recovery, repeat × 3 sets
+- Total ~35min of work
+- Simultaneous anaerobic + aerobic stimulus. Caution: extremely demanding
 
-### 3. Sweet Spot 인터벌 (주의: 그레이존 경계)
-- 12~20min @88~94% FTP × 2~3세트
-- 분극화 관점에서는 "모호한 영역"
-- **사용 시기**: Build 기간 중 Z4와 Z2 사이 변환. 매주 쓰지 말 것
+### 3. Sweet Spot Intervals (Caution: Gray Zone Boundary)
+- 12–20min @88–94% FTP × 2–3 sets
+- From a polarized perspective, this is an "ambiguous zone"
+- **When to use**: As a transition between Z4 and Z2 during the Build period. Do not use weekly
 
-### 4. Over-Under (역치 적응)
-- 2min @Z4 (95~105%) + 1min @Z5 (110~115%) 반복 × 8~10
-- 역치 근처에서의 내성 훈련
-- Build 2 기간에 적합
+### 4. Over-Under (Threshold Adaptation)
+- 2min @Z4 (95–105%) + 1min @Z5 (110–115%) repeated × 8–10
+- Tolerance training near threshold
+- Best suited for the Build 2 period
 
-## Friel 주기화와의 통합
+## Integration with Friel Periodization
 
-| 주기화 단계 | 분극화 적용 |
+| Periodization Phase | Polarized Application |
 |---|---|
-| Base 1~2 | **90/10**: 거의 전부 Z2. 고강도 최소 (주 1회 짧은 Z5 옵션) |
-| Base 3 | **85/15**: Z4 도입 시작 |
-| Build 1 | **80/20**: 주 2회 고강도 (Z4 위주) |
-| Build 2 | **75/25**: Z5 비중 증가, 레이스 시뮬레이션 |
-| Peak | **85/15**: 볼륨 감소, 짧은 고강도로 자극 유지 |
-| Transition | **100/0**: 자유롭게 |
+| Base 1–2 | **90/10**: Nearly all Z2. Minimal high intensity (optional 1× short Z5 per week) |
+| Base 3 | **85/15**: Begin introducing Z4 |
+| Build 1 | **80/20**: 2× high intensity per week (primarily Z4) |
+| Build 2 | **75/25**: Increased Z5 proportion, race simulations |
+| Peak | **85/15**: Reduced volume, maintain stimulus with short high-intensity efforts |
+| Transition | **100/0**: Ride freely |
 
-## 실내 트레이너 활용
+## Indoor Trainer Utilization
 
-분극화 훈련에서 **실내 트레이너는 강력한 도구**:
-- ERG 모드: 정확한 파워존 유지 (야외에서 불가능한 정밀도)
-- Z2 훈련: 신호등·차량 없이 중단 없는 연속 Z2
-- VO2max 인터벌: 정확한 파워 타겟, 안전
+The **indoor trainer is a powerful tool** for polarized training:
+- ERG mode: Maintains precise power zones (precision impossible outdoors)
+- Z2 training: Uninterrupted continuous Z2 without traffic lights or vehicles
+- VO2max intervals: Exact power targets, safe environment
 
-### 즈위프트 추천 워크아웃
-- **Z2 Base**: "Foundation" 또는 커스텀 Z2 고정
+### Recommended Zwift Workouts
+- **Z2 Base**: "Foundation" or custom fixed Z2
 - **VO2max**: "The Gorby" (4×4min), "The McCarthy Special"
-- **30/15**: TrainerRoad "Baird" 또는 커스텀
+- **30/15**: TrainerRoad "Baird" or custom
 
-## 한국 사이클리스트 현실
+## Practical Realities for Korean Cyclists
 
-- **한강 Z2 유지의 어려움**: 자전거 도로 혼잡, 신호, 보행자 → 이른 아침(5~6시) 또는 팔당~양평 방면
-- **그룹 라이딩 딜레마**: 동호회 라이딩은 대부분 Z3 (그레이존). 소셜과 훈련 분리 필요
-- **"느리게 타면 창피해"**: 한국 사이클링 문화에서 Z2 = 느림 = 약함이라는 인식. 그러나 프로도 80%는 Z2
-- **짧은 평일 시간**: 출퇴근 전후 1~1.5시간 → 화·목에 고강도, 주말에 Long Z2
+- **Difficulty maintaining Z2 on the Han River path**: Crowded bike lanes, traffic signals, pedestrians → early morning (5–6 AM) or head toward Paldang–Yangpyeong
+- **Group ride dilemma**: Most club rides sit in Z3 (gray zone). Separate social rides from structured training
+- **"Riding slow is embarrassing"**: In Korean cycling culture, Z2 = slow = weak. However, even pros spend 80% in Z2
+- **Limited weekday time**: 1–1.5 hours before/after work → high intensity on Tue/Thu, Long Z2 on weekends
 
-## 안티패턴
+## Anti-Patterns
 
-- **매번 Strava KOM 노리기** — Z2 타면서 구간 기록에 욕심 → Z3~Z4 돌입
-- **"쉬운 날은 쉬워야 한다"를 무시** — 매일 중간 강도 = 만성 피로
-- **VO2 세션 주 3회+** — 면역 저하, 피로 축적. 주 2회가 상한
-- **파워미터 없이 분극화** — HR로도 가능하지만 인터벌 정밀도 떨어짐
-- **그룹 라이딩을 Z2로 착각** — 30km/h 평속 그룹은 대부분 Z3+
+- **Chasing Strava KOMs on every ride** — Tempted by segment records during Z2 rides → drifting into Z3–Z4
+- **Ignoring "easy days should be easy"** — Moderate intensity every day = chronic fatigue
+- **VO2 sessions 3+ times per week** — Immune suppression, fatigue accumulation. 2× per week is the upper limit
+- **Polarized training without a power meter** — Possible with HR, but interval precision suffers
+- **Mistaking group rides for Z2** — A group averaging 30 km/h is almost always Z3+
 
-## 한계
+## Limitations
 
-1. **주 3시간 이하**: 분극화보다 역치 중심이 더 시간 효율적일 수 있음
-2. **개인 반응 차이**: 일부는 "달콤한 자리(Sweet Spot)" 중심이 더 맞을 수 있음
-3. **정확한 80/20은 중요하지 않음**: 75~90/10~25면 충분
-4. **지루함**: Z2 위주 훈련은 정신적으로 힘듦 → 팟캐스트, 영화, 즈위프트 활용
+1. **Under 3 hours/week**: Threshold-focused training may be more time-efficient than polarized
+2. **Individual response variance**: Some athletes may respond better to a Sweet Spot-focused approach
+3. **Exact 80/20 doesn't matter**: Anywhere within 75–90/10–25 is sufficient
+4. **Boredom**: Z2-dominant training is mentally challenging → leverage podcasts, movies, Zwift
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `power-zones` — 존 설정의 기초
-- `periodization` — 단계별 80/20 비율 조정
-- `indoor-training` — 정확한 분극화 실행 환경
+- `power-zones` — Foundation for zone configuration
+- `periodization` — Adjusting the 80/20 ratio by training phase
+- `indoor-training` — Precision execution environment for polarized training
 
-## 참고 문헌
+## References
 
 - Seiler, S. (2010). "What is Best Practice for Training Intensity and Duration Distribution?" *IJSPP*
 - Stöggl, T. & Sperlich, B. (2014). "Polarized training has greater impact..." *Frontiers in Physiology*

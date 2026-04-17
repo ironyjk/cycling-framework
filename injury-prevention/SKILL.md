@@ -1,155 +1,155 @@
 ---
 name: injury-prevention
 version: "0.1.0"
-description: "사이클링 부상 예방 — 무릎·목·허리·손·안장 통증 진단, 스트레칭·근력 운동, 오버트레이닝 징후, 자가 관리 vs 병원 기준."
+description: "Cycling injury prevention — knee, neck, back, hand, and saddle pain diagnosis, stretching and strength exercises, overtraining signs, self-care vs. medical referral criteria."
 ---
 
-# 사이클링 부상 예방 (Injury Prevention)
+# Cycling Injury Prevention
 
-## 한줄 요약
+## One-Line Summary
 
-**사이클링 부상의 80%는 핏 문제 또는 과훈련이 원인이다.** 통증 위치별 원인을 진단하고, 오프바이크 근력·스트레칭으로 예방한다. 자가 관리 vs 병원 기준을 명확히 한다.
+**80% of cycling injuries are caused by fit issues or overtraining.** Diagnose causes by pain location, prevent with off-bike strength and stretching. Apply clear criteria for self-care vs. medical referral.
 
-## 근거 강도
+## Evidence Strength
 
-- 안장 높이와 무릎 통증 관계: **강함** (Bini 2011, Ferrer-Roca 2014)
-- 코어 근력과 요통 예방: **강함** (다수 연구)
-- 스트레칭의 부상 예방 효과: **중간** (일부 연구에서 효과 불분명, 그러나 유연성 유지에 유용)
-- 오버트레이닝 진단 (HRV, 안정 시 HR): **중간** (트렌드는 유용하지만 정밀도 한계)
+- Saddle height and knee pain relationship: **Strong** (Bini 2011, Ferrer-Roca 2014)
+- Core strength and lower back pain prevention: **Strong** (multiple studies)
+- Stretching for injury prevention: **Moderate** (some studies show unclear effect, but useful for maintaining flexibility)
+- Overtraining diagnosis (HRV, resting HR): **Moderate** (trends are useful but limited precision)
 
-## 통증 부위별 진단
+## Diagnosis by Pain Location
 
-### 무릎 (가장 흔함)
+### Knee (Most Common)
 
-| 위치 | 가능한 원인 | 조치 |
+| Location | Possible Cause | Action |
 |---|---|---|
-| **앞쪽 (슬개골)** | 안장 너무 낮음, 클릿 위치 너무 앞, 큰 기어 저케이던스 | 안장 5mm 올리기, 클릿 뒤로, 케이던스 올리기 |
-| **뒤쪽** | 안장 너무 높음, 오버 스트레칭 | 안장 5mm 내리기 |
-| **바깥쪽 (IT밴드)** | 클릿 각도 (발 안쪽 회전), 갑작스런 볼륨 증가 | 클릿 각도 조절, IT밴드 폼롤링, 볼륨 줄이기 |
-| **안쪽** | 클릿 각도 (발 바깥 회전), Q팩터 | 클릿 조절, Q팩터 넓히기 |
+| **Anterior (patella)** | Saddle too low, cleat position too far forward, big gear / low cadence | Raise saddle 5mm, move cleats back, increase cadence |
+| **Posterior** | Saddle too high, overstretching | Lower saddle 5mm |
+| **Lateral (IT band)** | Cleat angle (foot internally rotated), sudden volume increase | Adjust cleat angle, IT band foam rolling, reduce volume |
+| **Medial** | Cleat angle (foot externally rotated), Q-factor | Adjust cleats, widen Q-factor |
 
-### 목·어깨
-- **원인**: 리치 너무 길음, 핸들 너무 낮음, 코어 약함
-- **조치**: 스템 짧게/각도 올리기, 스페이서 추가, 코어 강화
-- **스트레칭**: 상부 승모근·흉쇄유돌근 스트레칭, 턱 당기기
+### Neck and Shoulders
+- **Cause**: Reach too long, handlebars too low, weak core
+- **Action**: Shorter stem / steeper angle, add spacers, strengthen core
+- **Stretching**: Upper trapezius and sternocleidomastoid stretches, chin tucks
 
-### 허리
-- **원인**: 햄스트링 유연성 부족, 코어 약함, 안장 높음, 장시간 에어로 포지션
-- **조치**: 핏 재점검, 코어·둔근 강화, 햄스트링 스트레칭
-- **핵심**: 사이클링 허리 통증의 #1 원인 = **약한 코어 + 타이트한 햄스트링**
+### Lower Back
+- **Cause**: Poor hamstring flexibility, weak core, saddle too high, prolonged aero position
+- **Action**: Re-check fit, strengthen core and glutes, hamstring stretching
+- **Key Point**: The #1 cause of cycling lower back pain = **weak core + tight hamstrings**
 
-### 손·손목 (수근관/척골신경)
-- **증상**: 저림, 무감각 (새끼손가락 쪽 또는 엄지 쪽)
-- **원인**: 핸들에 과도한 체중 부하, 진동
-- **조치**: 패딩 장갑, 핸들 테이프 두껍게, 자세(팔 약간 굽힘), 30분마다 손 위치 변경
+### Hands and Wrists (Carpal Tunnel / Ulnar Nerve)
+- **Symptoms**: Tingling, numbness (pinky side or thumb side)
+- **Cause**: Excessive weight on handlebars, vibration
+- **Action**: Padded gloves, thicker bar tape, posture (slight elbow bend), change hand position every 30 minutes
 
-### 안장 통증
-- **원인**: 안장 부적합, 빕숏 패드 불량, 핏 문제
-- **조치**: 좌골 너비 측정 → 안장 교체, 좋은 빕숏, 샤모아 크림 사용
-- **주의**: 2주+ 지속되는 통증·압박·저림 → 비뇨기과/부인과 상담
+### Saddle Pain
+- **Cause**: Ill-fitting saddle, poor bib short pad, fit issues
+- **Action**: Measure sit bone width → replace saddle, quality bib shorts, use chamois cream
+- **Warning**: Pain, pressure, or numbness persisting 2+ weeks → consult urologist/gynecologist
 
-### 발 저림·통증
-- **원인**: 슈즈 너무 타이트, 클릿 위치, 아치 지지 부족
-- **조치**: 슈즈 폭 확인, 클릿 중족골 뒤로, 인솔 교체
+### Foot Numbness and Pain
+- **Cause**: Shoes too tight, cleat position, insufficient arch support
+- **Action**: Check shoe width, move cleats behind metatarsals, replace insoles
 
-## 오프바이크 근력·스트레칭 루틴
+## Off-Bike Strength and Stretching Routine
 
-### 핵심 근력 운동 (주 2~3회, 20~30분)
+### Core Strength Exercises (2–3× per week, 20–30 min)
 
-#### 코어 (허리 보호)
-1. **플랭크**: 30~60초 × 3세트 (사이드 플랭크 포함)
-2. **데드버그**: 10회 × 3세트 (코어 안정화)
-3. **버드독**: 10회 × 3세트
+#### Core (Back Protection)
+1. **Plank**: 30–60 sec × 3 sets (include side plank)
+2. **Dead Bug**: 10 reps × 3 sets (core stabilization)
+3. **Bird Dog**: 10 reps × 3 sets
 
-#### 둔근 (파워 + 무릎 보호)
-4. **글루트 브릿지**: 15회 × 3세트
-5. **싱글레그 데드리프트**: 10회 × 3세트
-6. **클램셸**: 15회 × 3세트 (밴드 추천)
+#### Glutes (Power + Knee Protection)
+4. **Glute Bridge**: 15 reps × 3 sets
+5. **Single-Leg Deadlift**: 10 reps × 3 sets
+6. **Clamshell**: 15 reps × 3 sets (resistance band recommended)
 
-#### 하체 전반
-7. **스쿼트**: 12~15회 × 3세트 (바디웨이트 또는 가벼운 중량)
-8. **런지**: 10회 × 3세트 (앞/뒤/사이드 변형)
-9. **카프레이즈**: 15회 × 3세트
+#### Lower Body General
+7. **Squat**: 12–15 reps × 3 sets (bodyweight or light weight)
+8. **Lunge**: 10 reps × 3 sets (forward/reverse/lateral variations)
+9. **Calf Raise**: 15 reps × 3 sets
 
-### 스트레칭 루틴 (라이딩 후 10분)
+### Stretching Routine (10 min post-ride)
 
-| 부위 | 운동 | 시간 |
+| Area | Exercise | Duration |
 |---|---|---|
-| 햄스트링 | 직립 전굴 또는 벽에 다리 올리기 | 30초 × 양쪽 |
-| 대퇴사두 | 서서 뒤로 당기기 | 30초 × 양쪽 |
-| 고관절 굴곡근 | 런지 스트레칭 | 30초 × 양쪽 |
-| IT밴드 | 크로스레그 스트레칭 | 30초 × 양쪽 |
-| 종아리 | 벽 푸시 스트레칭 | 30초 × 양쪽 |
-| 목·어깨 | 목 좌우 기울이기 + 어깨 돌리기 | 30초씩 |
-| 흉추 | 흉추 회전 (열린 책 스트레칭) | 30초 × 양쪽 |
+| Hamstrings | Standing forward fold or wall leg raise | 30 sec × each side |
+| Quadriceps | Standing quad pull | 30 sec × each side |
+| Hip flexors | Lunge stretch | 30 sec × each side |
+| IT band | Cross-leg stretch | 30 sec × each side |
+| Calves | Wall push stretch | 30 sec × each side |
+| Neck and shoulders | Lateral neck tilt + shoulder rolls | 30 sec each |
+| Thoracic spine | Thoracic rotation (open book stretch) | 30 sec × each side |
 
-## 오버트레이닝 징후
+## Overtraining Signs
 
-### 초기 경고 (과훈련 시작)
-- 안정 시 심박수 +5bpm 이상 지속
-- HRV 하락 추세 (5~7일)
-- 수면 질 저하 (자주 깸, 잠들기 어려움)
-- 평소보다 쉽게 짜증·우울
-- 같은 파워에서 RPE 상승
+### Early Warning (Onset of Overtraining)
+- Resting heart rate elevated +5 bpm persistently
+- HRV downward trend (5–7 days)
+- Declining sleep quality (frequent waking, difficulty falling asleep)
+- Unusual irritability or low mood
+- Increased RPE at the same power output
 
-### 심각한 징후 (즉시 휴식)
-- 2주+ FTP/파워 하락
-- 지속적 피로 (충분한 수면에도)
-- 면역 저하 (잦은 감기·인후통)
-- 부상 빈도 증가
-- 훈련 동기 완전 상실
+### Serious Signs (Rest Immediately)
+- FTP/power decline lasting 2+ weeks
+- Persistent fatigue (despite adequate sleep)
+- Compromised immunity (frequent colds, sore throats)
+- Increased injury frequency
+- Complete loss of training motivation
 
-### 대응
-1. **경미**: 볼륨 -30~50%, 2~3일 완전 휴식 후 Z2만
-2. **중간**: 1주 완전 휴식 → Z2로 재시작
-3. **심각**: 2~4주 완전 휴식, 의사 상담 (호르몬·혈액 검사)
+### Response
+1. **Mild**: Reduce volume by 30–50%, 2–3 days complete rest, then Z2 only
+2. **Moderate**: 1 week complete rest → restart with Z2
+3. **Severe**: 2–4 weeks complete rest, consult physician (hormonal and blood panel)
 
-## 자가 관리 vs 병원 기준
+## Self-Care vs. Medical Referral Criteria
 
-### 자가 관리 가능
-- 경미한 근육통 (2~3일 내 소실)
-- 안장 통증 (핏 조절 + 빕숏 교체로 개선)
-- 핏 조절로 사라지는 무릎 통증
-- 라이딩 후 일시적 손 저림 (30분 내 회복)
+### Self-Care Appropriate
+- Mild muscle soreness (resolves within 2–3 days)
+- Saddle pain (improves with fit adjustment + bib short change)
+- Knee pain that resolves with fit adjustment
+- Temporary hand numbness post-ride (recovers within 30 minutes)
 
-### 병원 가야 함
-- **2주+ 지속되는 통증** (부위 무관)
-- **방사통·저림** (허리→다리, 목→팔)
-- **부종·발적** (관절)
-- **야간 통증** (수면 중 깨는 통증)
-- **딸깍 소리 + 통증** (관절 내 문제 의심)
-- **낙차 후 통증** (골절·인대 손상 가능)
-- **안장 부위 지속적 저림·압박** (신경·혈관 문제)
+### Seek Medical Attention
+- **Pain persisting 2+ weeks** (regardless of location)
+- **Radiating pain or numbness** (back → leg, neck → arm)
+- **Swelling or redness** (joints)
+- **Night pain** (pain that wakes you from sleep)
+- **Clicking sound + pain** (suspected intra-articular issue)
+- **Pain after a crash** (possible fracture or ligament injury)
+- **Persistent numbness or pressure in saddle area** (nerve or vascular issue)
 
-## 한국 사이클리스트 현실
+## Practical Considerations for Korean Cyclists
 
-- **자전거 도로 낙차**: 보행자·전동 킥보드·볼라드 충돌 다발. 헬멧 필수, 주의 필수
-- **겨울 노면**: 블랙아이스, 낙엽 → 미끄러짐 위험. 실내 트레이너 권장
-- **한강·탄천 혼잡**: 보행자·인라인 충돌 위험 → 이른 아침 또는 한적한 구간
-- **병원 접근성**: 스포츠의학 전문(서울: 강남세브란스, 서울대병원, 부산: 부산대병원). 일반 정형외과에서도 기본 진단 가능
+- **Bike path crashes**: Frequent collisions with pedestrians, e-scooters, and bollards. Helmet mandatory, stay vigilant
+- **Winter road surfaces**: Black ice, fallen leaves → slip hazard. Indoor trainer recommended
+- **Hangang and Tancheon congestion**: Collision risk with pedestrians and inline skaters → ride early morning or on less crowded sections
+- **Hospital access**: Sports medicine specialists (Seoul: Gangnam Severance, Seoul National University Hospital; Busan: Pusan National University Hospital). Basic diagnosis also available at general orthopedic clinics
 
-## 안티패턴
+## Anti-Patterns
 
-- **통증 무시하고 계속 타기** — "참으면 나아진다"는 부상 악화의 지름길
-- **근력 운동 안 하기** — "다리가 이미 강해"라는 착각. 코어·둔근이 약한 경우 많음
-- **스트레칭만으로 해결 시도** — 유연성만으로는 안 됨. 근력 + 유연성 밸런스
-- **핏 문제를 약/소염제로 대응** — 원인 해결 없이 증상만 억제
-- **자가 진단으로 심각한 부상 방치** — 2주+ 지속되면 반드시 병원
+- **Riding through pain** — "It'll get better if I push through" is the fastest path to worsening injury
+- **Skipping strength training** — "My legs are already strong" is a misconception. Core and glutes are often weak
+- **Relying on stretching alone** — Flexibility alone is insufficient. Balance strength + flexibility
+- **Masking fit problems with medication/NSAIDs** — Suppresses symptoms without addressing the cause
+- **Self-diagnosing serious injuries** — If pain persists 2+ weeks, see a doctor
 
-## 한계
+## Limitations
 
-1. 텍스트 기반 진단은 참고용 — 정확한 진단은 전문가 필수
-2. 개인 해부학적 차이 (다리 길이 차이 등)는 전문 핏팅에서만 발견
-3. 낙차·외상은 범위 밖 — 즉시 의료기관
+1. Text-based diagnosis is for reference only — accurate diagnosis requires a professional
+2. Individual anatomical differences (e.g., leg length discrepancy) can only be identified through professional fitting
+3. Crash and trauma injuries are out of scope — seek immediate medical attention
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `bike-fit-equipment` — 핏 문제 해결
-- `polarized-training` — 과훈련 방지를 위한 강도 배분
-- `strength-basics` (`/fit`) — 근력 프로그램 상세
-- `recovery-periodization` (`/fit`) — 회복과 디로드
+- `bike-fit-equipment` — Resolving fit issues
+- `polarized-training` — Intensity distribution to prevent overtraining
+- `strength-basics` (`/fit`) — Detailed strength programming
+- `recovery-periodization` (`/fit`) — Recovery and deload protocols
 
-## 참고 문헌
+## References
 
 - Bini, R. et al. (2011). "Effects of bicycle saddle height on knee injury risk." *Sports Med*
 - Pruitt, A. *Andy Pruitt's Complete Medical Guide for Cyclists*

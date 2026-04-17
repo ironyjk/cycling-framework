@@ -1,169 +1,169 @@
 ---
 name: bike-fit-equipment
 version: "0.1.0"
-description: "바이크핏·장비 선택 — 안장 높이·리치·스택, 프레임 지오메트리, 휠·타이어·그룹셋 선택, 가성비 업그레이드 우선순위. 한국 시장 맥락."
+description: "Bike Fit & Equipment Selection — saddle height, reach, stack, frame geometry, wheel/tire/groupset selection, cost-effective upgrade priority. Korean market context."
 ---
 
-# 바이크핏 & 장비 선택 (Bike Fit & Equipment)
+# Bike Fit & Equipment Selection
 
-## 한줄 요약
+## One-Line Summary
 
-**올바른 핏이 장비보다 중요하다.** 안장 높이·리치·핸들 드롭을 먼저 맞추고, 그 다음 타이어→휠→그룹셋 순으로 업그레이드. 가장 큰 W/$ 개선은 포지션과 타이어.
+**Proper fit matters more than equipment.** Dial in saddle height, reach, and handlebar drop first, then upgrade in order: tires → wheels → groupset. The biggest W/$ gains come from positioning and tires.
 
-## 근거 강도
+## Strength of Evidence
 
-- 안장 높이와 무릎 부상 관계: **강함** (Bini 2011, 다수 연구)
-- 전문 바이크핏(Retül 등)의 효과: **중간** (편안함 개선은 확실, 퍼포먼스 향상은 개인차)
-- 에어로 장비 효과: **강함** (풍동 테스트 기반 — 그러나 아마추어 속도 30km/h 이하에서는 효과 감소)
-- 타이어 구름저항: **강함** (BRR 테스트 등 정량 비교 가능)
+- Saddle height and knee injury relationship: **Strong** (Bini 2011, multiple studies)
+- Professional bike fit (Retül, etc.) effectiveness: **Moderate** (comfort improvement is clear; performance gains vary by individual)
+- Aero equipment effects: **Strong** (wind tunnel–based — however, effect diminishes below 30 km/h for amateurs)
+- Tire rolling resistance: **Strong** (BRR testing and other quantitative comparisons available)
 
-## 기본 핏 원칙
+## Fundamental Fit Principles
 
-### 1. 안장 높이 (가장 중요)
-- **기준**: 페달 최하점에서 무릎 약간 굽힘 (25~35도)
-- **간이 측정**: 인심(inseam) × 0.883 = BB에서 안장 상단까지
-- **증상별 진단**:
-  - 무릎 앞쪽 통증 → 안장 너무 낮음
-  - 무릎 뒤쪽 통증 → 안장 너무 높음
-  - 골반 좌우 흔들림 → 안장 너무 높음
-- **조절**: 한 번에 최대 5mm, 1~2주 적응 후 재평가
+### 1. Saddle Height (Most Important)
+- **Guideline**: Slight knee bend (25–35°) at bottom dead center of the pedal stroke
+- **Quick measurement**: Inseam × 0.883 = BB center to saddle top
+- **Symptom-based diagnosis**:
+  - Anterior knee pain → saddle too low
+  - Posterior knee pain → saddle too high
+  - Lateral pelvic rocking → saddle too high
+- **Adjustment**: Maximum 5 mm at a time; allow 1–2 weeks of adaptation before re-evaluating
 
-### 2. 안장 전후 위치
-- **KOPS 기준**: 크랭크 수평 시 무릎 중심이 페달 축 위
-- 실제로는 라이딩 스타일에 따라 전후 1~2cm 조절
-- 앞으로 → 파워 증가, 무릎 부담 증가
-- 뒤로 → 편안함, 장거리 유리
+### 2. Saddle Fore-Aft Position
+- **KOPS guideline**: With cranks horizontal, the knee center should be directly above the pedal spindle
+- In practice, adjust 1–2 cm forward or back depending on riding style
+- Forward → more power, more knee stress
+- Rearward → more comfort, better for long distances
 
-### 3. 리치 (Reach) & 스택 (Stack)
-- **리치**: BB에서 헤드튜브 상단까지 수평 거리. 길수록 공격적
-- **스택**: BB에서 헤드튜브 상단까지 수직 거리. 높을수록 편안
-- **Stack/Reach 비율**:
-  - 1.3~1.4: 레이스 포지션
-  - 1.45~1.55: 엔듀런스 포지션
-  - 1.6+: 업라이트/편안한 포지션
-- 스템 길이와 각도로 미세 조정 가능
+### 3. Reach & Stack
+- **Reach**: Horizontal distance from BB center to the top of the head tube. Longer = more aggressive
+- **Stack**: Vertical distance from BB center to the top of the head tube. Higher = more comfortable
+- **Stack-to-Reach ratio**:
+  - 1.3–1.4: Race position
+  - 1.45–1.55: Endurance position
+  - 1.6+: Upright / comfort position
+- Fine-tune with stem length and angle
 
-### 4. 핸들바 드롭 & 리치
-- 핸들 너비 = 어깨 너비 (AC joint 기준)
-- 드롭 < 스택에서 10cm 이하 (초보~중급)
-- 스페이서로 핸들 높이 조절 → 슬램(스페이서 제거)은 유연성 확보 후
+### 4. Handlebar Drop & Reach
+- Handlebar width = shoulder width (measured at the AC joint)
+- Drop < 10 cm from stack height (beginner to intermediate)
+- Adjust handlebar height with spacers → slam the stem (remove spacers) only after achieving adequate flexibility
 
-### 5. 안장 선택
-- 좌골 너비 측정 → 안장 너비 결정 (좌골 + 2~3cm)
-- 평평한 안장 vs 커브: 유연성 좋으면 평평, 아니면 커브
-- 숏노즈 안장: 전립선 압박 감소, 최근 트렌드 (Specialized Power, Fizik Argo)
-- **가장 중요한 것**: 1~2주 타보고 판단. 안장은 매우 개인적
+### 5. Saddle Selection
+- Measure sit-bone width → determine saddle width (sit-bone width + 2–3 cm)
+- Flat vs. curved saddle: flat if flexible, curved otherwise
+- Short-nose saddles: reduce perineal pressure, current trend (Specialized Power, Fizik Argo)
+- **Most important**: Ride for 1–2 weeks before judging. Saddle choice is highly personal
 
-## 프레임 지오메트리
+## Frame Geometry
 
-| 유형 | Stack/Reach | 특징 | 대상 |
+| Type | Stack/Reach | Characteristics | Target Rider |
 |---|---|---|---|
-| 레이스 | 1.3~1.4 | 낮고 긴 포지션, 에어로 | 레이스·크리테리움 |
-| 올라운드 | 1.4~1.5 | 균형잡힌 포지션 | 대부분의 라이더 |
-| 엔듀런스 | 1.5~1.6 | 높고 편안, 타이어 클리어런스 | 장거리·그란폰도 |
-| 그래블 | 1.5~1.7 | 넓은 타이어, 안정적 | 비포장·혼합 |
+| Race | 1.3–1.4 | Low, stretched position; aero | Racing, criteriums |
+| All-round | 1.4–1.5 | Balanced position | Most riders |
+| Endurance | 1.5–1.6 | Upright, comfortable; tire clearance | Long distance, gran fondo |
+| Gravel | 1.5–1.7 | Wide tires, stable handling | Off-road, mixed terrain |
 
-## 장비 업그레이드 우선순위 (W/$ 기준)
+## Equipment Upgrade Priority (by W/$)
 
-### Tier 1: 가장 효과적 (비용 대비 최고)
-1. **바이크핏** (10~30만원) — 편안함·파워·부상 예방. 모든 업그레이드의 기초
-2. **타이어** (5~15만원/쌍) — 구름저항 감소 → 체감 속도 즉시 개선
-3. **빕숏/패드** (10~25만원) — 안장 통증 해결, 장거리 편안함
+### Tier 1: Most Effective (Best Cost-to-Benefit Ratio)
+1. **Bike fit** (KRW 100K–300K) — Comfort, power, injury prevention. The foundation for every upgrade
+2. **Tires** (KRW 50K–150K/pair) — Lower rolling resistance → immediate perceived speed improvement
+3. **Bib shorts / chamois** (KRW 100K–250K) — Resolves saddle discomfort, long-ride comfort
 
-### Tier 2: 확실한 개선
-4. **휠셋** (50~200만원) — 무게 감소 + 에어로. 가장 비싸지만 체감 큼
-5. **파워미터** (30~50만원) — 훈련 효율 극대화. 장비가 아닌 훈련 도구
-6. **실내 트레이너** (50~150만원) — 겨울/우천/야간 훈련 가능
+### Tier 2: Clear Improvement
+4. **Wheelset** (KRW 500K–2M) — Weight reduction + aero. Most expensive but most noticeable
+5. **Power meter** (KRW 300K–500K) — Maximizes training efficiency. A training tool, not just equipment
+6. **Indoor trainer** (KRW 500K–1.5M) — Enables winter, rainy-day, and nighttime training
 
-### Tier 3: 미세한 차이
-7. **그룹셋 업그레이드** — 105→Ultegra는 무게 100g 차이. 기능은 동일
-8. **경량 부품** (시트포스트, 핸들바, 스템) — 수백 g 절약에 수십만원
-9. **에어로 장비** (에어로 헬멧, 스킨슈트) — 40km/h+ 에서 의미 있음
+### Tier 3: Marginal Gains
+7. **Groupset upgrade** — 105 → Ultegra saves ~100 g. Functionally identical
+8. **Lightweight components** (seatpost, handlebar, stem) — Hundreds of grams saved for hundreds of thousands of won
+9. **Aero equipment** (aero helmet, skinsuit) — Meaningful only above 40 km/h
 
-### 돈이 없을 때 (0원 업그레이드)
-- 타이어 공기압 최적화 (너무 높으면 오히려 느림)
-- 체인 청소·윤활 (1~3W 절약)
-- 포지션 조정 (스템 뒤집기, 스페이서 조절)
-- 체중 감량 (가장 효과적인 "경량화")
+### Zero-Cost Upgrades
+- Optimize tire pressure (too high is actually slower)
+- Clean and lubricate the chain (saves 1–3 W)
+- Adjust position (flip stem, rearrange spacers)
+- Lose body weight (the most effective "weight reduction")
 
-## 타이어 가이드
+## Tire Guide
 
-### 추천 너비
-| 용도 | 너비 | 비고 |
+### Recommended Widths
+| Use Case | Width | Notes |
 |---|---|---|
-| 레이스 | 25~28mm | 28mm가 새 표준 |
-| 올라운드 | 28~32mm | 편안함 + 속도 밸런스 |
-| 그란폰도 | 28~35mm | 장거리 편안함 |
-| 그래블 | 35~45mm | 비포장 대응 |
+| Racing | 25–28 mm | 28 mm is the new standard |
+| All-round | 28–32 mm | Comfort + speed balance |
+| Gran fondo | 28–35 mm | Long-distance comfort |
+| Gravel | 35–45 mm | Off-road capability |
 
-### 클린처 vs 튜블리스
-- **클린처+튜브**: 간편, 수리 쉬움, 입문자에게 추천
-- **튜블리스**: 구름저항 감소, 낮은 공기압 가능, 펑크 방지(실란트). 설치 번거로움
-- 튜블리스 전환은 **Tier 1.5** 수준의 업그레이드
+### Clincher vs. Tubeless
+- **Clincher + tube**: Simple, easy to repair, recommended for beginners
+- **Tubeless**: Lower rolling resistance, allows lower pressures, puncture protection (sealant). Setup can be cumbersome
+- Tubeless conversion is roughly a **Tier 1.5** upgrade
 
-### 공기압 (tubeless 기준)
-- 체중 70kg + 28mm: 앞 55~60psi, 뒤 60~65psi
-- 체중 80kg + 28mm: 앞 60~65psi, 뒤 65~70psi
-- **너무 높으면**: 진동 증가, 접지력 감소, 오히려 느림
-- 노면 상태에 따라 조절 (거친 도로 → -5~10psi)
+### Tire Pressure (Tubeless Baseline)
+- 70 kg rider + 28 mm: front 55–60 psi, rear 60–65 psi
+- 80 kg rider + 28 mm: front 60–65 psi, rear 65–70 psi
+- **Too high**: Increased vibration, reduced traction, actually slower
+- Adjust for road surface conditions (rough roads → −5–10 psi)
 
-## 그룹셋 비교
+## Groupset Comparison
 
-### Shimano (시마노)
-| 등급 | 무게 | 변속 | 가격대 | 비고 |
+### Shimano
+| Tier | Weight | Shifting | Price Range (KRW) | Notes |
 |---|---|---|---|---|
-| Claris (R2000) | 무거움 | 8단 | 30~50만 | 입문용 |
-| Sora (R3000) | 무거움 | 9단 | 40~60만 | |
-| Tiagra (R4700) | 보통 | 10단 | 50~80만 | |
-| **105 (R7100)** | 보통 | **12단 Di2** | 100~130만 | **가성비 최고** |
-| Ultegra (R8100) | 가벼움 | 12단 Di2 | 150~200만 | |
-| Dura-Ace (R9200) | 최경량 | 12단 Di2 | 300~400만 | 프로용 |
+| Claris (R2000) | Heavy | 8-speed | 300K–500K | Entry-level |
+| Sora (R3000) | Heavy | 9-speed | 400K–600K | |
+| Tiagra (R4700) | Moderate | 10-speed | 500K–800K | |
+| **105 (R7100)** | Moderate | **12-speed Di2** | 1M–1.3M | **Best value** |
+| Ultegra (R8100) | Light | 12-speed Di2 | 1.5M–2M | |
+| Dura-Ace (R9200) | Lightest | 12-speed Di2 | 3M–4M | Pro-level |
 
 ### SRAM
-| 등급 | 특징 | 비고 |
+| Tier | Features | Notes |
 |---|---|---|
-| Rival AXS | 무선 전자, 12단 | 가성비 좋음 |
-| Force AXS | 경량 | 울테그라 대항 |
-| Red AXS | 최경량 | 듀라에이스 대항 |
+| Rival AXS | Wireless electronic, 12-speed | Good value |
+| Force AXS | Lightweight | Competes with Ultegra |
+| Red AXS | Lightest | Competes with Dura-Ace |
 
-> **핵심**: 105 Di2 이상이면 변속 성능은 거의 동일. 차이는 무게와 소재.
+> **Key takeaway**: At 105 Di2 and above, shift performance is virtually identical. The difference is weight and materials.
 
-## 한국 시장 현실
+## Korean Market Realities
 
-- **대리점**: 자이언트, 트렉, 스페셜라이즈드, 메리다 등. 핏 서비스 포함되는 경우 많음
-- **온라인**: 바이크디, 라이트바이시클, 위글(해외). 사이즈 확인 후 구매
-- **중고**: 바이클(앱), 네이버 카페 — 1~2년 된 상급 모델이 가성비 좋음
-- **핏팅 센터**: 서울(바이크핏코리아, 스페셜라이즈드 RETÜL 등), 부산, 대구에 전문점
-- **가격대 (완차)**:
-  - 입문 (Claris~Sora): 80~150만원
-  - 중급 (105): 200~350만원
-  - 상급 (Ultegra): 400~600만원
-  - 하이엔드: 700만원+
+- **Authorized dealers**: Giant, Trek, Specialized, Merida, etc. Many include fit services with purchase
+- **Online**: Biked (바이크디), Light Bicycle (라이트바이시클), Wiggle (international). Verify sizing before ordering
+- **Used market**: Bikle app (바이클), Naver cycling cafés — 1–2-year-old high-tier models offer excellent value
+- **Fit studios**: Seoul (Bike Fit Korea, Specialized RETÜL, etc.), Busan, Daegu have specialist centers
+- **Price ranges (complete bike)**:
+  - Entry (Claris–Sora): KRW 800K–1.5M
+  - Mid-range (105): KRW 2M–3.5M
+  - Upper (Ultegra): KRW 4M–6M
+  - High-end: KRW 7M+
 
-## 안티패턴
+## Anti-Patterns
 
-- **핏 안 맞는 비싼 자전거** — 500만원 자전거도 핏 안 맞으면 150만원 자전거보다 불편함
-- **프레임 먼저, 핏 나중** — 반대여야 함. 핏 → 적합한 프레임 지오메트리 → 구매
-- **그룹셋에 집착** — 105→Ultegra 업그레이드 비용으로 파워미터+좋은 타이어 살 수 있음
-- **너무 작은/큰 사이즈** — "사이즈 사이"일 때 작은 걸 추천 (스템으로 늘릴 수 있으니)
-- **에어로에 집착** — 30km/h 이하에서는 에어로 효과 미미. 포지션이 더 중요
-- **프로가 쓰는 장비 따라하기** — 프로는 유연성·체력이 다름. 똑같은 세팅 = 부상
+- **Expensive bike with poor fit** — A KRW 5M bike with bad fit is less comfortable than a KRW 1.5M bike that fits well
+- **Frame first, fit later** — It should be the opposite: fit → suitable frame geometry → purchase
+- **Groupset obsession** — The cost of a 105 → Ultegra upgrade could buy a power meter + premium tires
+- **Wrong frame size** — When "between sizes," go smaller (the stem can make up the reach)
+- **Aero obsession** — Below 30 km/h, aero gains are negligible. Position matters more
+- **Copying pro setups** — Pros have different flexibility and fitness. The same setup = injury risk
 
-## 한계
+## Limitations
 
-1. 텍스트 기반 핏 조언은 시작점일 뿐 — 전문 핏팅 권장
-2. 개인 유연성·부상 이력에 따라 핏이 크게 달라짐
-3. 장비 선택은 예산에 크게 좌우됨
+1. Text-based fit advice is a starting point only — a professional fit session is recommended
+2. Individual flexibility and injury history can drastically alter optimal fit
+3. Equipment choices are heavily constrained by budget
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `injury-prevention` — 핏 문제로 인한 통증 진단
-- `power-zones` — 파워미터 선택과 훈련 연계
-- `indoor-training` — 트레이너 선택
+- `injury-prevention` — Diagnosing pain caused by fit issues
+- `power-zones` — Linking power meter selection with structured training
+- `indoor-training` — Trainer selection guidance
 
-## 참고 문헌
+## References
 
 - Bini, R. et al. (2011). "Effects of bicycle saddle height on knee injury risk and cycling performance." *Sports Med*
 - Pruitt, A. & Matheny, F. *Andy Pruitt's Complete Medical Guide for Cyclists* (2006)
-- Bicycle Rolling Resistance (bicyclerollingresistance.com) — 타이어 비교 데이터
+- Bicycle Rolling Resistance (bicyclerollingresistance.com) — Tire comparison data
 - Specialized Body Geometry Fit documentation

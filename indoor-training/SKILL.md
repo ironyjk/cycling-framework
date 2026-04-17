@@ -1,156 +1,156 @@
 ---
 name: indoor-training
 version: "0.1.0"
-description: "실내 트레이너 훈련 — Zwift/TrainerRoad/Wahoo 플랫폼, 스마트 트레이너 설정, 구조화된 워크아웃, 한국 아파트 환경 대응."
+description: "Indoor trainer training — Zwift/TrainerRoad/Wahoo platforms, smart trainer setup, structured workouts, and considerations for Korean apartment environments."
 ---
 
-# 실내 트레이너 훈련 (Indoor Training)
+# Indoor Trainer Training (Indoor Training)
 
-## 한줄 요약
+## One-Line Summary
 
-**스마트 트레이너 + 즈위프트/TrainerRoad로 날씨·시간에 관계없이 정확한 파워존 훈련.** 한국의 긴 겨울(11~3월)과 폭염(7~8월)에 특히 유용. 아파트 소음·진동 관리가 핵심.
+**Smart trainer + Zwift/TrainerRoad for precise power zone training regardless of weather or time.** Especially useful during Korea's long winters (Nov–Mar) and extreme summer heat (Jul–Aug). Noise and vibration management in apartments is critical.
 
-## 근거 강도
+## Evidence Strength
 
-- 실내 훈련의 운동 효과: **강함** (야외와 동일한 생리적 자극)
-- ERG 모드 정확도: **강함** (±1~3W, 야외보다 일관적)
-- 즈위프트 가상 레이싱 효과: **중간** (동기 부여 + 경쟁 자극, 그러나 야외 스킬 대체 불가)
-- 실내 vs 야외 RPE 차이: **강함** (같은 파워에서 실내 RPE 10~15% 높음 — 열 배출 어려움)
+- Exercise effectiveness of indoor training: **Strong** (same physiological stimulus as outdoor)
+- ERG mode accuracy: **Strong** (±1–3W, more consistent than outdoor)
+- Zwift virtual racing effectiveness: **Moderate** (motivation + competitive stimulus, but cannot replace outdoor skills)
+- Indoor vs outdoor RPE difference: **Strong** (indoor RPE 10–15% higher at same power — impaired heat dissipation)
 
-## 스마트 트레이너 종류
+## Smart Trainer Types
 
-### 다이렉트 드라이브 (추천)
-- 뒷바퀴 제거 후 프레임에 직접 장착
-- **장점**: 정확도 ±1%, 저소음, 안정적
-- **추천**: Wahoo KICKR, Tacx Neo, Elite Suito
-- **가격**: 60~200만원
+### Direct Drive (Recommended)
+- Rear wheel removed; frame mounts directly to trainer
+- **Pros**: ±1% accuracy, low noise, stable
+- **Recommended**: Wahoo KICKR, Tacx Neo, Elite Suito
+- **Price**: 600K–2M KRW (~$450–$1,500)
 
-### 휠온 (입문용)
-- 뒷바퀴에 롤러 접촉
-- **장점**: 저렴, 설치 간편
-- **단점**: 소음 큼, 타이어 마모, 정확도 ±3~5%
-- **추천**: Wahoo KICKR Snap, Tacx Flow
-- **가격**: 30~60만원
+### Wheel-On (Entry Level)
+- Roller contacts the rear tire
+- **Pros**: Affordable, easy setup
+- **Cons**: Louder, tire wear, ±3–5% accuracy
+- **Recommended**: Wahoo KICKR Snap, Tacx Flow
+- **Price**: 300K–600K KRW (~$225–$450)
 
-### 롤러 (스킬 훈련용)
-- 3개 롤러 위에 자전거 올려놓고 균형 잡으며 타기
-- **장점**: 밸런스·페달링 스킬 향상, 워밍업용
-- **단점**: 파워 제어 불가, 낙차 위험, 소음
-- **초보 비추천**
+### Rollers (Skill Training)
+- Bicycle placed on three rollers; rider maintains balance while pedaling
+- **Pros**: Improves balance and pedaling technique, good for warm-ups
+- **Cons**: No power control, fall risk, noisy
+- **Not recommended for beginners**
 
-## 플랫폼 비교
+## Platform Comparison
 
-| 플랫폼 | 월 비용 | 강점 | 약점 |
+| Platform | Monthly Cost | Strengths | Weaknesses |
 |---|---|---|---|
-| **Zwift** | ~$15 | 가상 세계, 소셜, 레이싱 | 구독료, 게임 요소가 산만할 수 있음 |
-| **TrainerRoad** | ~$20 | 구조화된 플랜, AI FTP, 심플 | 시각적 재미 없음 |
-| **Wahoo SYSTM** | ~$15 | 영상+워크아웃, 요가 포함 | 커뮤니티 작음 |
-| **Rouvy** | ~$12 | 실제 영상 기반 코스 | 사용자 적음 |
-| **무료 옵션** | $0 | TrainingPeaks 무료+트레이너 | 시각적 피드백 없음 |
+| **Zwift** | ~$15 | Virtual world, social, racing | Subscription cost, gamification can be distracting |
+| **TrainerRoad** | ~$20 | Structured plans, AI FTP, simple | No visual entertainment |
+| **Wahoo SYSTM** | ~$15 | Video + workouts, includes yoga | Small community |
+| **Rouvy** | ~$12 | Real-video-based courses | Small user base |
+| **Free options** | $0 | TrainingPeaks free + trainer | No visual feedback |
 
-### Zwift 핵심 기능
-- **ERG 모드**: 설정 파워를 자동 유지 (구조화된 워크아웃에 필수)
-- **SIM 모드**: 가상 지형에 따라 저항 변화 (야외 감각)
-- **레이싱**: 실시간 가상 레이스 (동기 부여 최고)
-- **워크아웃**: 수백 개 미리 만들어진 워크아웃 + 커스텀 가능
+### Zwift Key Features
+- **ERG Mode**: Automatically maintains set power (essential for structured workouts)
+- **SIM Mode**: Resistance varies with virtual terrain (outdoor feel)
+- **Racing**: Real-time virtual races (best for motivation)
+- **Workouts**: Hundreds of pre-built workouts + custom creation
 
-## 구조화된 워크아웃 (실내용)
+## Structured Workouts (Indoor)
 
-### Z2 Base (60~90min)
+### Z2 Base (60–90 min)
 ```
-워밍업 10min (Z1→Z2 점진)
-메인: Z2 고정 40~70min (ERG 모드)
-쿨다운 10min
+Warm-up 10 min (Z1→Z2 gradual ramp)
+Main set: Z2 steady 40–70 min (ERG mode)
+Cool-down 10 min
 ```
-- 넷플릭스/유튜브 보면서 가능
-- 심박 드리프트 주의: 실내는 열 축적으로 HR 올라감
+- Can watch Netflix/YouTube during the session
+- Watch for cardiac drift: heat accumulation indoors causes HR to rise
 
-### VO2max Norwegian 4×4 (60min)
+### VO2max Norwegian 4×4 (60 min)
 ```
-워밍업 15min (Z1→Z2, 마지막 1min Z4)
-4min Z5 (106~120%FTP) / 3min Z1 × 4세트
-쿨다운 13min
+Warm-up 15 min (Z1→Z2, final 1 min Z4)
+4 min Z5 (106–120% FTP) / 3 min Z1 × 4 sets
+Cool-down 13 min
 ```
-- ERG 모드 주의: Z5에서 케이던스 떨어지면 저항이 급증 ("ERG 나선"). 케이던스 유지가 핵심
+- ERG mode caution: if cadence drops during Z5, resistance spikes dramatically ("ERG spiral"). Maintaining cadence is critical
 
-### Sweet Spot 2×20 (65min)
+### Sweet Spot 2×20 (65 min)
 ```
-워밍업 15min
-20min @88~94% FTP / 5min Z1 × 2세트
-쿨다운 10min
-```
-
-### Rønnestad 30/15 (50min)
-```
-워밍업 15min
-30sec @150%FTP / 15sec Z1 × 13 = 1세트
-3min Z1 회복 × 3세트
-쿨다운 10min
+Warm-up 15 min
+20 min @ 88–94% FTP / 5 min Z1 × 2 sets
+Cool-down 10 min
 ```
 
-### 짧은 시간 고효율 (30min)
+### Rønnestad 30/15 (50 min)
 ```
-워밍업 5min
-8min Z4 / 2min Z1 × 2세트
-쿨다운 5min
+Warm-up 15 min
+30 sec @ 150% FTP / 15 sec Z1 × 13 = 1 set
+3 min Z1 recovery × 3 sets
+Cool-down 10 min
 ```
-- 시간 없는 평일 아침/저녁에 적합
 
-## 한국 아파트 환경 대응
+### Short High-Efficiency Session (30 min)
+```
+Warm-up 5 min
+8 min Z4 / 2 min Z1 × 2 sets
+Cool-down 5 min
+```
+- Ideal for time-limited weekday mornings/evenings
 
-### 소음·진동 대책
-1. **다이렉트 드라이브 트레이너** 필수 (휠온 대비 소음 50% 이하)
-2. **트레이너 매트** (1~3만원): 바닥 진동 흡수 + 땀 보호
-3. **추가 방진**: 매트 아래 고무판 또는 요가 매트 이중 깔기
-4. **시간대**: 아침 6시 이전·밤 10시 이후 피하기 (층간소음)
-5. **설치 위치**: 발코니 > 거실 > 방 (공기 순환 중요)
+## Korean Apartment Environment Considerations
 
-### 열 관리 (실내 최대 약점)
-- 야외 대비 열 배출 30~40% 감소 → 같은 파워에서 HR 10~15bpm 높음
-- **선풍기 필수**: 대형 선풍기 1~2개, 정면+측면
-- **에어컨 가동**: 여름에는 에어컨 + 선풍기 조합
-- **수분**: 실내에서 발한율 1.5배 → 500ml 물병 2개 이상 준비
-- **타월**: 핸들에 타월 감기 (땀으로 부식 방지)
+### Noise and Vibration Mitigation
+1. **Direct drive trainer** is essential (50%+ less noise than wheel-on)
+2. **Trainer mat** (10K–30K KRW / ~$8–$23): absorbs floor vibration + protects from sweat
+3. **Additional vibration dampening**: rubber pad or yoga mat layered under the trainer mat
+4. **Time restrictions**: avoid before 6 AM or after 10 PM (inter-floor noise regulations, 층간소음)
+5. **Placement**: balcony > living room > bedroom (air circulation matters)
 
-### 즈위프트 셋업 (기본)
-- 스마트 트레이너 + ANT+/Bluetooth 연결
-- 디스플레이: TV/모니터 (큰 화면 추천) 또는 태블릿
-- Apple TV 4K가 가장 안정적. PC/Mac도 가능
-- 케이던스 센서: 트레이너에 내장이면 불필요
+### Heat Management (The Biggest Indoor Weakness)
+- 30–40% less heat dissipation vs outdoors → HR 10–15 bpm higher at same power
+- **Fan is mandatory**: 1–2 large fans, front + side
+- **Air conditioning**: combine A/C + fan in summer
+- **Hydration**: indoor sweat rate is 1.5× higher → prepare 2+ 500 ml water bottles
+- **Towel**: wrap towel around handlebars (prevents sweat corrosion)
 
-## 가상 레이싱 전략
+### Zwift Setup (Basic)
+- Smart trainer + ANT+/Bluetooth connection
+- Display: TV/monitor (large screen recommended) or tablet
+- Apple TV 4K is the most stable option; PC/Mac also works
+- Cadence sensor: not needed if built into the trainer
 
-### Zwift 레이스 기본
-- **카테고리**: A(4.0+ W/kg), B(3.2~4.0), C(2.5~3.2), D(<2.5)
-- **출발 1~2분**: 가장 힘든 구간. W/kg 기준 카테고리 상한의 150% 각오
-- **집단 드래프트**: 실제처럼 앞사람 뒤에서 25% 파워 절약
-- **언덕**: 가벼운 라이더 유리. 무거우면 평지에서 회복
-- **스프린트**: 마지막 200m에서 전력. 타이밍이 핵심
+## Virtual Racing Strategy
 
-## 안티패턴
+### Zwift Race Basics
+- **Categories**: A (4.0+ W/kg), B (3.2–4.0), C (2.5–3.2), D (<2.5)
+- **First 1–2 minutes**: The hardest segment. Expect 150% of your category's upper W/kg limit
+- **Pack drafting**: 25% power savings behind another rider, just like in real life
+- **Climbs**: Lighter riders have the advantage. Heavier riders should recover on flats
+- **Sprints**: Go all-out in the final 200 m. Timing is everything
 
-- **매번 즈위프트 레이스만** — 구조화된 훈련 없이 레이스만 하면 항상 Z4~Z5 → 과훈련
-- **선풍기 없이 타기** — 열 스트레스로 파워 20~30% 하락. 훈련 효과도 감소
-- **ERG 모드에서 케이던스 무시** — 케이던스 떨어지면 저항 급증 → "ERG 나선" 빠짐
-- **매일 실내 훈련** — 정신적 번아웃. 주 3~4회가 상한, 야외와 혼합
-- **야외 FTP를 실내에 그대로 적용** — 실내 FTP는 야외 대비 5~10% 낮은 게 정상
+## Anti-Patterns
 
-## 한계
+- **Only doing Zwift races** — Racing without structured training means constant Z4–Z5 → overtraining
+- **Riding without a fan** — Heat stress causes 20–30% power drop. Training effect also diminishes
+- **Ignoring cadence in ERG mode** — Dropping cadence causes resistance to spike → "ERG spiral" trap
+- **Indoor training every day** — Mental burnout. 3–4 sessions per week is the upper limit; mix with outdoor
+- **Applying outdoor FTP directly to indoor** — Indoor FTP is normally 5–10% lower than outdoor
 
-1. 야외 라이딩 스킬(코너링, 하강, 그룹 라이딩) 대체 불가
-2. 정신적 지루함·번아웃 — 음악/영상/소셜 기능으로 보완
-3. 열 환경이 야외와 다름 → 레이스 준비 시 야외 세션 필수
-4. 실내 FTP ≠ 야외 FTP (보통 실내가 5~10% 낮음)
+## Limitations
 
-## 함께 쓰면 좋은 프레임워크
+1. Cannot replace outdoor riding skills (cornering, descending, group riding)
+2. Mental boredom and burnout — mitigate with music/video/social features
+3. Thermal environment differs from outdoors → outdoor sessions are essential for race preparation
+4. Indoor FTP ≠ outdoor FTP (indoor is typically 5–10% lower)
 
-- `polarized-training` — 실내에서 정확한 80/20 배분
-- `power-zones` — ERG 모드로 정확한 존 훈련
-- `periodization` — 겨울 Base 기간 실내 활용
+## Complementary Frameworks
 
-## 참고 문헌
+- `polarized-training` — Precise 80/20 distribution indoors
+- `power-zones` — Accurate zone training via ERG mode
+- `periodization` — Leveraging indoor training during winter base periods
+
+## References
 
 - Zwift official documentation (zwift.com)
-- TrainerRoad blog — 구조화된 훈련 가이드
-- DC Rainmaker — 트레이너 리뷰 및 비교
+- TrainerRoad blog — Structured training guides
+- DC Rainmaker — Trainer reviews and comparisons
 - Minoura, Wahoo, Tacx technical documentation
