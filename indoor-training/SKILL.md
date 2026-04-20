@@ -1,21 +1,18 @@
 ---
 name: indoor-training
-version: "0.1.0"
+version: "0.2.0"
 description: "Indoor trainer training — Zwift/TrainerRoad/Wahoo platforms, smart trainer setup, structured workouts, and considerations for Korean apartment environments."
 ---
 
 # Indoor Trainer Training (Indoor Training)
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Smart trainer + Zwift/TrainerRoad for precise power zone training regardless of weather or time.** Especially useful during Korea's long winters (Nov–Mar) and extreme summer heat (Jul–Aug). Noise and vibration management in apartments is critical.
 
-## Evidence Strength
-
-- Exercise effectiveness of indoor training: **Strong** (same physiological stimulus as outdoor)
-- ERG mode accuracy: **Strong** (±1–3W, more consistent than outdoor)
-- Zwift virtual racing effectiveness: **Moderate** (motivation + competitive stimulus, but cannot replace outdoor skills)
-- Indoor vs outdoor RPE difference: **Strong** (indoor RPE 10–15% higher at same power — impaired heat dissipation)
 
 ## Smart Trainer Types
 
@@ -38,6 +35,7 @@ description: "Indoor trainer training — Zwift/TrainerRoad/Wahoo platforms, sma
 - **Cons**: No power control, fall risk, noisy
 - **Not recommended for beginners**
 
+
 ## Platform Comparison
 
 | Platform | Monthly Cost | Strengths | Weaknesses |
@@ -53,6 +51,7 @@ description: "Indoor trainer training — Zwift/TrainerRoad/Wahoo platforms, sma
 - **SIM Mode**: Resistance varies with virtual terrain (outdoor feel)
 - **Racing**: Real-time virtual races (best for motivation)
 - **Workouts**: Hundreds of pre-built workouts + custom creation
+
 
 ## Structured Workouts (Indoor)
 
@@ -96,6 +95,7 @@ Cool-down 5 min
 ```
 - Ideal for time-limited weekday mornings/evenings
 
+
 ## Korean Apartment Environment Considerations
 
 ### Noise and Vibration Mitigation
@@ -118,6 +118,7 @@ Cool-down 5 min
 - Apple TV 4K is the most stable option; PC/Mac also works
 - Cadence sensor: not needed if built into the trainer
 
+
 ## Virtual Racing Strategy
 
 ### Zwift Race Basics
@@ -127,6 +128,7 @@ Cool-down 5 min
 - **Climbs**: Lighter riders have the advantage. Heavier riders should recover on flats
 - **Sprints**: Go all-out in the final 200 m. Timing is everything
 
+
 ## Anti-Patterns
 
 - **Only doing Zwift races** — Racing without structured training means constant Z4–Z5 → overtraining
@@ -135,6 +137,7 @@ Cool-down 5 min
 - **Indoor training every day** — Mental burnout. 3–4 sessions per week is the upper limit; mix with outdoor
 - **Applying outdoor FTP directly to indoor** — Indoor FTP is normally 5–10% lower than outdoor
 
+
 ## Limitations
 
 1. Cannot replace outdoor riding skills (cornering, descending, group riding)
@@ -142,15 +145,9 @@ Cool-down 5 min
 3. Thermal environment differs from outdoors → outdoor sessions are essential for race preparation
 4. Indoor FTP ≠ outdoor FTP (indoor is typically 5–10% lower)
 
+
 ## Complementary Frameworks
 
 - `polarized-training` — Precise 80/20 distribution indoors
 - `power-zones` — Accurate zone training via ERG mode
 - `periodization` — Leveraging indoor training during winter base periods
-
-## References
-
-- Zwift official documentation (zwift.com)
-- TrainerRoad blog — Structured training guides
-- DC Rainmaker — Trainer reviews and comparisons
-- Minoura, Wahoo, Tacx technical documentation

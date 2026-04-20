@@ -1,31 +1,18 @@
 ---
 name: endurance-events
-version: "0.1.0"
+version: "0.2.0"
 description: "Endurance event preparation — granfondo, brevet, century. 12–16 week training plans, pacing, climbing strategy, group riding, major Korean events."
 ---
 
 # Endurance Event Preparation
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Analyze the target event's distance, elevation, and characteristics, then build a 12–16 week preparation plan.** Pacing strategy, fueling plan, and climbing technique separate a finish from a DNF.
 
-## Evidence Strength
-
-- Periodization-based event preparation: **Strong**
-- Negative-split pacing: **Strong** (conservative first half → maintain/accelerate second half is optimal)
-- Drafting effect: **Strong** (25–40% power savings depending on speed and wind direction)
-- Seated vs standing climbing: **Moderate** (individual efficiency varies; seated is generally more efficient)
-
-## Event Type Characteristics
-
-| Type | Distance | Features | Key Abilities |
-|---|---|---|---|
-| Century | 160km | Baseline long-distance | Z2 endurance, fueling |
-| Granfondo | 100–200km | Hills included, may have cutoff times | Climbing + endurance |
-| Brevet (200km) | 200km | Self-supported, checkpoints | Self-management, night riding |
-| Brevet (300–600km) | 300–600km | Self-managed sleep/fueling | Extreme endurance, mental fortitude |
-| Time Trial | 20–40km | Individual all-out effort | FTP, aero positioning |
 
 ## 12–16 Week Preparation Plan (Granfondo 180km Example)
 
@@ -62,6 +49,7 @@ Phase 4: Taper + Race (Week 13–16)
 - Week 16: Event week (30min opener 2 days before)
 ```
 
+
 ## Pacing Strategy
 
 ### Negative-Split Principle
@@ -81,6 +69,7 @@ Phase 4: Taper + Race (Week 13–16)
 - Maintain 65–75% of max heart rate
 - Allow up to 80% on climbs, recover on descents
 - Watch for cardiac drift (HR rises ~10% at the same power after 3 hours)
+
 
 ## Climbing Strategy
 
@@ -111,6 +100,7 @@ Phase 4: Taper + Race (Week 13–16)
 - Braking: alternate hands (prevent finger fatigue)
 - Descents are recovery segments — pedal lightly while lowering heart rate
 
+
 ## Group Riding
 
 ### Drafting Effect
@@ -129,6 +119,7 @@ Phase 4: Taper + Race (Week 13–16)
 - Pointing → obstacle, pothole
 - Voice calls: "Car!", "Front!", "Hole!"
 
+
 ## Major Korean Events
 
 | Event | Distance | Elevation | Season | Features |
@@ -146,6 +137,7 @@ Phase 4: Taper + Race (Week 13–16)
 - **Fueling**: Convenience stores spaced 20–40km apart. Carry extra supplies
 - **Safety**: Dedicated cycling paths, but watch for pedestrians and electric kickboards
 
+
 ## Anti-Patterns
 
 - **Chasing a time on your first event** — the goal of the first event is to finish. Records come from the second attempt onward
@@ -154,11 +146,13 @@ Phase 4: Taper + Race (Week 13–16)
 - **Blindly following a faster group** — exceeding your own pace leads to late-stage collapse
 - **Speed competition on descents** — the most dangerous segment. Safety > speed
 
+
 ## Limitations
 
 1. Weather and wind are unpredictable — always have a Plan B (adjust cutoff times, add fueling stops)
 2. Group dynamics are hard to predict — exercise judgment when joining groups that are too fast or too slow
 3. For extreme events (brevet 600km+), sleep and mental resilience are the deciding factors — beyond the realm of pure fitness
+
 
 ## Complementary Frameworks
 
@@ -166,11 +160,3 @@ Phase 4: Taper + Race (Week 13–16)
 - `nutrition-fueling` — event fueling plan
 - `power-zones` — pacing power targets
 - `injury-prevention` — recovery after long-distance events
-
-## References
-
-- Friel, J. *The Cyclist's Training Bible* (5th ed.)
-- Abbiss, C. & Laursen, P. (2008). "Describing and understanding pacing strategies during athletic competition." *Sports Med*
-- Faria, E.W. et al. (2005). "The science of cycling: factors affecting performance." *Sports Med*
-- Korea Cycling Federation (한국자전거연맹) — Event calendar
-- Korea Randonneurs (한국 랜도뇌르) — Brevet regulations and course information

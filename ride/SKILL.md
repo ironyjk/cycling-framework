@@ -4,7 +4,7 @@ version: "0.3.0"
 last_verified: "2026-04-17"
 valid_until: "2026-10-17"
 description: "Cycling coaching meta-router — 8 evidence-based frameworks (Power Zones/Coggan, Periodization/Friel, Polarized Training/Seiler, Nutrition & Fueling, Bike Fit & Equipment, Indoor Training, Endurance Events, Injury Prevention). Power meter-driven, data-centric training. Built-in context for Korean cyclists. Not medical advice."
-tools: ["Read", "Write", "Edit", "Skill"]
+tools: ["Read", "Write", "Edit", "Skill", "Agent"]
 dependencies:
   - power-zones
   - periodization
@@ -83,6 +83,17 @@ Confirm or ask before analysis:
 - Promotional brand-specific recommendations
 - Unrealistic goals such as "increase FTP by 100 W in 3 months"
 - Applying professional-level training volume to amateur athletes
+
+
+## Execution Strategy
+
+1. **Route** -- classify the problem, select 1-3 sub-skills
+2. **Confirm** -- verify goal/level/context with the user before analysis
+3. **Execute** -- call sub-skills via the Skill tool (read their SKILL.md for execution protocol)
+4. **Synthesize** -- combine results, expose conflicts, give concrete next steps
+5. **Measure** -- propose 1-2 metrics to track over 4-12 weeks
+
+When a sub-skill needs background theory, read its `references/foundation.md`. Execute using its `SKILL.md`.
 
 ## Output Format
 

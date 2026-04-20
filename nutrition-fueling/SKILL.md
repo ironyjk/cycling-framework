@@ -1,28 +1,18 @@
 ---
 name: nutrition-fueling
-version: "0.1.0"
+version: "0.2.0"
 description: "Cycling nutrition & fueling strategy — on-bike carbohydrate fueling (60–90 g/h), hydration & electrolytes, weight management and performance balance. Based on Allen Lim and Asker Jeukendrup."
 ---
 
 # Cycling Nutrition & Fueling
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Fuel 60–90 g of carbohydrates per hour while riding, maintain adequate hydration and electrolytes, and manage daily diet according to training phase.** Control deficit limits when pursuing weight loss and performance simultaneously.
 
-## Strength of Evidence
-
-- On-bike carbohydrate fueling (60–90 g/h): **Strong** (Jeukendrup 2014, multiple RCTs)
-- Hydration: **Strong** (performance declines at ≥2% body weight dehydration)
-- Deficit limits during weight loss: **Moderate** (0.5–0.7% body weight/week recommended; excessive deficits reduce FTP)
-- Gut training: **Moderate** (absorption capacity can improve with practice)
-
-## Theoretical Basis & Sources
-
-- **Asker Jeukendrup** — Exogenous carbohydrate oxidation, multiple transportable carbohydrate theory
-- **Allen Lim** — *The Feed Zone Cookbook*, *Feed Zone Portables*
-- **Louise Burke** — Sports nutrition guidelines (IOC)
-- **Stellingwerff, T.** — Pre-race carbohydrate loading
 
 ## On-Bike Fueling Guide
 
@@ -59,6 +49,7 @@ description: "Cycling nutrition & fueling strategy — on-bike carbohydrate fuel
 - If GI discomfort occurs, reduce concentration or switch form: solid → gel → liquid
 - Trying a new fueling strategy for the first time on race day = disaster
 
+
 ## Hydration & Electrolytes
 
 ### Fluid Requirements
@@ -78,6 +69,7 @@ description: "Cycling nutrition & fueling strategy — on-bike carbohydrate fuel
 - Rides of 2+ hours: **electrolyte supplementation is essential**
 - Electrolyte tablets (SiS, Nuun) or salt + sports drink
 - Korean summer heat and humidity: sodium losses are very high → supplement aggressively
+
 
 ## Daily Diet & Training
 
@@ -103,6 +95,7 @@ description: "Cycling nutrition & fueling strategy — on-bike carbohydrate fuel
 - Stick to familiar foods (no experimenting with new foods)
 - Reduce fiber (minimize GI stress)
 
+
 ## Practical Considerations for Korean Cyclists
 
 - **Convenience store fueling**: Bananas, yokan (양갱), chocolate bars, and electrolyte drinks from GS25 or CU → the default resupply point on long rides
@@ -112,6 +105,7 @@ description: "Cycling nutrition & fueling strategy — on-bike carbohydrate fuel
 - **Summer fluid losses**: Korean summer humidity 80%+ → actual sweat rate is higher than perceived; conscious hydration needed
 - **Gel/bar prices**: Significantly more expensive than overseas; homemade energy bars, yokan (양갱), and rice balls offer better value
 
+
 ## Anti-Patterns
 
 - **"Fasted rides burn more fat"** — Acceptable up to 1 hour of Z2, but long fasted rides = muscle loss + immune suppression
@@ -120,22 +114,16 @@ description: "Cycling nutrition & fueling strategy — on-bike carbohydrate fuel
 - **Skipping post-ride food for fear of weight gain** — Protein + carbs within the 30-minute recovery window are essential
 - **Substituting energy drinks (Red Bull, etc.)** — Excess caffeine + carbonation + high osmolality
 
+
 ## Limitations
 
 1. Individual GI tolerance varies widely — adjust ±30% from general guidelines
 2. Rate of weight loss depends heavily on individual metabolism, stress, and sleep
 3. Consulting a certified sports dietitian provides the most accurate guidance
 
+
 ## Complementary Frameworks
 
 - `power-zones` — TSS-based daily calorie expenditure estimation
 - `endurance-events` — Event-specific fueling plans
 - `macro-tracking` (`/fit`) — Daily diet calorie and macronutrient management
-
-## References
-
-- Jeukendrup, A. (2014). "A step towards personalized sports nutrition." *Sports Med*
-- Burke, L. et al. (2011). "Carbohydrates for training and competition." *JSAMS*
-- Stellingwerff, T. (2012). "Case study: nutrition and training periodization in three elite marathon runners."
-- Lim, A. *The Feed Zone Cookbook* (2011)
-- Thomas, D.T. et al. (2016). "Position of the Academy: Nutrition and Athletic Performance." *JAND*

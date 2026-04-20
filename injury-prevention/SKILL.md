@@ -1,21 +1,18 @@
 ---
 name: injury-prevention
-version: "0.1.0"
+version: "0.2.0"
 description: "Cycling injury prevention — knee, neck, back, hand, and saddle pain diagnosis, stretching and strength exercises, overtraining signs, self-care vs. medical referral criteria."
 ---
 
 # Cycling Injury Prevention
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **80% of cycling injuries are caused by fit issues or overtraining.** Diagnose causes by pain location, prevent with off-bike strength and stretching. Apply clear criteria for self-care vs. medical referral.
 
-## Evidence Strength
-
-- Saddle height and knee pain relationship: **Strong** (Bini 2011, Ferrer-Roca 2014)
-- Core strength and lower back pain prevention: **Strong** (multiple studies)
-- Stretching for injury prevention: **Moderate** (some studies show unclear effect, but useful for maintaining flexibility)
-- Overtraining diagnosis (HRV, resting HR): **Moderate** (trends are useful but limited precision)
 
 ## Diagnosis by Pain Location
 
@@ -52,6 +49,7 @@ description: "Cycling injury prevention — knee, neck, back, hand, and saddle p
 - **Cause**: Shoes too tight, cleat position, insufficient arch support
 - **Action**: Check shoe width, move cleats behind metatarsals, replace insoles
 
+
 ## Off-Bike Strength and Stretching Routine
 
 ### Core Strength Exercises (2–3× per week, 20–30 min)
@@ -83,6 +81,7 @@ description: "Cycling injury prevention — knee, neck, back, hand, and saddle p
 | Neck and shoulders | Lateral neck tilt + shoulder rolls | 30 sec each |
 | Thoracic spine | Thoracic rotation (open book stretch) | 30 sec × each side |
 
+
 ## Overtraining Signs
 
 ### Early Warning (Onset of Overtraining)
@@ -104,6 +103,7 @@ description: "Cycling injury prevention — knee, neck, back, hand, and saddle p
 2. **Moderate**: 1 week complete rest → restart with Z2
 3. **Severe**: 2–4 weeks complete rest, consult physician (hormonal and blood panel)
 
+
 ## Self-Care vs. Medical Referral Criteria
 
 ### Self-Care Appropriate
@@ -121,12 +121,14 @@ description: "Cycling injury prevention — knee, neck, back, hand, and saddle p
 - **Pain after a crash** (possible fracture or ligament injury)
 - **Persistent numbness or pressure in saddle area** (nerve or vascular issue)
 
+
 ## Practical Considerations for Korean Cyclists
 
 - **Bike path crashes**: Frequent collisions with pedestrians, e-scooters, and bollards. Helmet mandatory, stay vigilant
 - **Winter road surfaces**: Black ice, fallen leaves → slip hazard. Indoor trainer recommended
 - **Hangang and Tancheon congestion**: Collision risk with pedestrians and inline skaters → ride early morning or on less crowded sections
 - **Hospital access**: Sports medicine specialists (Seoul: Gangnam Severance, Seoul National University Hospital; Busan: Pusan National University Hospital). Basic diagnosis also available at general orthopedic clinics
+
 
 ## Anti-Patterns
 
@@ -136,11 +138,13 @@ description: "Cycling injury prevention — knee, neck, back, hand, and saddle p
 - **Masking fit problems with medication/NSAIDs** — Suppresses symptoms without addressing the cause
 - **Self-diagnosing serious injuries** — If pain persists 2+ weeks, see a doctor
 
+
 ## Limitations
 
 1. Text-based diagnosis is for reference only — accurate diagnosis requires a professional
 2. Individual anatomical differences (e.g., leg length discrepancy) can only be identified through professional fitting
 3. Crash and trauma injuries are out of scope — seek immediate medical attention
+
 
 ## Complementary Frameworks
 
@@ -148,10 +152,3 @@ description: "Cycling injury prevention — knee, neck, back, hand, and saddle p
 - `polarized-training` — Intensity distribution to prevent overtraining
 - `strength-basics` (`/fit`) — Detailed strength programming
 - `recovery-periodization` (`/fit`) — Recovery and deload protocols
-
-## References
-
-- Bini, R. et al. (2011). "Effects of bicycle saddle height on knee injury risk." *Sports Med*
-- Pruitt, A. *Andy Pruitt's Complete Medical Guide for Cyclists*
-- Asplund, C. & St Pierre, P. (2004). "Knee pain and bicycling." *Phys Sportsmed*
-- Meeusen, R. et al. (2013). "Prevention, diagnosis, and treatment of the overtraining syndrome." *MSSE*

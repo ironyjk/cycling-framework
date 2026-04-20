@@ -1,58 +1,18 @@
 ---
 name: polarized-training
-version: "0.1.0"
+version: "0.2.0"
 description: "Cycling-specific polarized training — applying Seiler's 80/20 principle to cycling. Weekly training plans, indoor trainer workouts, and integration with Friel periodization."
 ---
 
 # Polarized Training — Cycling-Specific
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Allocate 80% of training time to Z1–Z2 (easy intensity) and 20% to Z4–Z5 (high intensity). Minimize Z3 (moderate intensity).** Provides cycling-specific, actionable plans beyond the general `polarized-endurance` framework in `/fit`.
 
-## Evidence Strength
-
-- Elite athlete intensity distribution observations: **Strong** (Seiler, Tønnessen, multiple observational studies)
-- Polarized vs. threshold-focused RCTs: **Moderate** (Stöggl & Sperlich 2014 — polarized superior, but small sample)
-- Must it be exactly 80/20: **Weak** (similar outcomes within the 75–90/10–25 range)
-- Application to amateurs: **Moderate** (effectiveness may diminish under time constraints)
-
-## Differences from /fit polarized-endurance
-
-| Aspect | /fit polarized-endurance | /ride polarized-training |
-|---|---|---|
-| Scope | General-purpose: running, cycling, cross-country | **Cycling-specific** |
-| Power zones | HR-based, 5 zones | **Power meter-based, 7 zones** |
-| Weekly plan | Overview level | **Detailed workouts by time slot** |
-| Indoor training | Mentioned briefly | **Zwift/TR workout details** |
-| Periodization link | None | **Integrated with Friel ATP** |
-
-## Three-Zone Classification (Cycling Power-Based)
-
-| Polarized Zone | Coggan Zone | %FTP | Distribution |
-|---|---|---|---|
-| **Low** | Z1+Z2 | <75% | **80%** |
-| **Moderate** | Z3+lower Z4 | 76–95% | **<10%** |
-| **High** | Upper Z4+Z5+Z6 | >95% | **~20%** |
-
-> "Moderate" is the gray zone. It has the worst adaptation-to-fatigue ratio.
-
-## How to Ride Z2 Properly
-
-Many cyclists ride Z2 "too fast." This is the #1 cause of polarized training failure.
-
-### Z2 Checklist
-- **Can breathe through the nose** (mostly, if not entirely)
-- **Can speak in complete sentences**
-- **Can maintain the same intensity after 1 hour**
-- **Power**: 55–75% of FTP (e.g., FTP 250W → 138–188W)
-- **Heart rate**: 60–72% of max HR
-- **RPE**: 2–3/10
-
-### Why So Slow?
-- Z2 increases mitochondrial density, capillary growth, and fat oxidation capacity
-- Minimal fatigue accumulation → enables high-intensity sessions the next day
-- **Riding at Z3**: fatigue comparable to Z4, adaptation comparable to Z2 → the worst ratio
 
 ## Weekly Plans (By Volume)
 
@@ -92,6 +52,7 @@ Sun: Z2 90min + optional Z3 block 20min
 ```
 → Low ~82%, High ~15% | Weekly TSS ~600–750
 
+
 ## Key High-Intensity Workouts
 
 ### 1. Norwegian 4×4 (VO2max Gold Standard)
@@ -116,6 +77,7 @@ Sun: Z2 90min + optional Z3 block 20min
 - Tolerance training near threshold
 - Best suited for the Build 2 period
 
+
 ## Integration with Friel Periodization
 
 | Periodization Phase | Polarized Application |
@@ -126,6 +88,7 @@ Sun: Z2 90min + optional Z3 block 20min
 | Build 2 | **75/25**: Increased Z5 proportion, race simulations |
 | Peak | **85/15**: Reduced volume, maintain stimulus with short high-intensity efforts |
 | Transition | **100/0**: Ride freely |
+
 
 ## Indoor Trainer Utilization
 
@@ -139,12 +102,14 @@ The **indoor trainer is a powerful tool** for polarized training:
 - **VO2max**: "The Gorby" (4×4min), "The McCarthy Special"
 - **30/15**: TrainerRoad "Baird" or custom
 
+
 ## Practical Realities for Korean Cyclists
 
 - **Difficulty maintaining Z2 on the Han River path**: Crowded bike lanes, traffic signals, pedestrians → early morning (5–6 AM) or head toward Paldang–Yangpyeong
 - **Group ride dilemma**: Most club rides sit in Z3 (gray zone). Separate social rides from structured training
 - **"Riding slow is embarrassing"**: In Korean cycling culture, Z2 = slow = weak. However, even pros spend 80% in Z2
 - **Limited weekday time**: 1–1.5 hours before/after work → high intensity on Tue/Thu, Long Z2 on weekends
+
 
 ## Anti-Patterns
 
@@ -154,6 +119,7 @@ The **indoor trainer is a powerful tool** for polarized training:
 - **Polarized training without a power meter** — Possible with HR, but interval precision suffers
 - **Mistaking group rides for Z2** — A group averaging 30 km/h is almost always Z3+
 
+
 ## Limitations
 
 1. **Under 3 hours/week**: Threshold-focused training may be more time-efficient than polarized
@@ -161,16 +127,9 @@ The **indoor trainer is a powerful tool** for polarized training:
 3. **Exact 80/20 doesn't matter**: Anywhere within 75–90/10–25 is sufficient
 4. **Boredom**: Z2-dominant training is mentally challenging → leverage podcasts, movies, Zwift
 
+
 ## Complementary Frameworks
 
 - `power-zones` — Foundation for zone configuration
 - `periodization` — Adjusting the 80/20 ratio by training phase
 - `indoor-training` — Precision execution environment for polarized training
-
-## References
-
-- Seiler, S. (2010). "What is Best Practice for Training Intensity and Duration Distribution?" *IJSPP*
-- Stöggl, T. & Sperlich, B. (2014). "Polarized training has greater impact..." *Frontiers in Physiology*
-- Rønnestad, B.R. et al. (2020). "Short intervals induce superior training adaptations..."
-- Fitzgerald, M. *80/20 Running* (principles applicable to cycling)
-- Muñoz, I. et al. (2014). "Does polarized training improve performance in recreational runners?" *IJSPP*
