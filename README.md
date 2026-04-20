@@ -48,6 +48,17 @@ See the [marketplace wrapper guide](https://github.com/ironyjk/claude-frameworks
 /ride  Best nutrition strategy for a 5-hour Gran Fondo?
 ```
 
+## Attribution & Trademarks
+
+This project implements evidence-based cycling training frameworks for educational purposes. The following trademarks are acknowledged:
+
+- **TrainingPeaks®** and metrics (TSS, CTL, ATL, TSB) are trademarks of TrainingPeaks LLC.
+- **Zwift®**, **TrainerRoad®**, **Wahoo KICKR®**, and **Tacx®** are registered trademarks of their respective companies and are referenced as product names only.
+
+All other framework names reference published works and are used descriptively.
+
+This project is not affiliated with, endorsed by, or sponsored by any of the above trademark holders.
+
 ## License
 
 [CC-BY-NC 4.0](LICENSE) — Free for personal/educational use. Commercial use requires permission: ironyjk@gmail.com
