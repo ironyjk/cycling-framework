@@ -5,7 +5,7 @@
   "author": {"name": "Choi Hee Chul", "email": "ironyjk@gmail.com"},
   "homepage": "https://github.com/ironyjk/cycling-framework",
   "repository": "https://github.com/ironyjk/cycling-framework",
-  "license": "CC-BY-NC-4.0",
+  "license": "MIT",
   "keywords": ["cycling", "power-meter", "training", "coggan", "seiler", "korean"],
   "skills": ["./ride", "./power-zones", "./periodization", "./polarized-training", "./nutrition-fueling", "./bike-fit-equipment", "./indoor-training", "./endurance-events", "./injury-prevention"]
 }
